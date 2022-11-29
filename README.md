@@ -1,6 +1,6 @@
 # GFG-100-Days
 
-<img src="https://img.shields.io/badge/gfg%20-%23H92033.svg?&style=for-the-badge&logo=gfg&logoColor=white"/>
+<img src="https://img.shields.io/badge/geeksforgeeks%20-%006400.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
      <a href="https://practice.geeksforgeeks.org/problem-of-the-day/dashboard" Dashboard </a>
 
 
