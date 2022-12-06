@@ -14,3 +14,4 @@
 |     06.    |  [Aggressive Cows](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1)   |   December 03   |
 |     07.    |  [Alternate Vowel and Consonant String](https://practice.geeksforgeeks.org/problems/aggressive-cows/1)   |   December 04   |
 |     08.    |  [Shortest Path by Removing K walls](https://practice.geeksforgeeks.org/problems/shortest-path-by-removing-k-walls/1)   |   December 05   |
+|     09.    |  [Distance of nearest cell having 1](https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1/1)   |   December 06   |
