@@ -15,3 +15,4 @@
 |     07.    |  [Alternate Vowel and Consonant String](https://practice.geeksforgeeks.org/problems/aggressive-cows/1)   |   December 04   |
 |     08.    |  [Shortest Path by Removing K walls](https://practice.geeksforgeeks.org/problems/shortest-path-by-removing-k-walls/1)   |   December 05   |
 |     09.    |  [Distance of nearest cell having 1](https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1/1)   |   December 06   |
+|     10.    |  [k-th smallest element in BST](https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1)   |   December 07   |
