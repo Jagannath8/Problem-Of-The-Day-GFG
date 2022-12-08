@@ -16,3 +16,4 @@
 |     08.    |  [Shortest Path by Removing K walls](https://practice.geeksforgeeks.org/problems/shortest-path-by-removing-k-walls/1)   |   December 05   |
 |     09.    |  [Distance of nearest cell having 1](https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1/1)   |   December 06   |
 |     10.    |  [k-th smallest element in BST](https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1)   |   December 07   |
+|     11.    |  [3 Divisors](https://practice.geeksforgeeks.org/problems/3-divisors3942/1)   |   December 08   |
