@@ -18,3 +18,4 @@
 |     10.    |  [k-th smallest element in BST](https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1)   |   December 07   |
 |     11.    |  [3 Divisors](https://practice.geeksforgeeks.org/problems/3-divisors3942/1)   |   December 08   |
 |     12.    |  [Black and White](https://practice.geeksforgeeks.org/problems/black-and-white-1587115620/1)   |   December 09   |
+|     13.    |  [Build the smallest](https://practice.geeksforgeeks.org/problems/build-the-smallest2841/1)   |   December 10   |
