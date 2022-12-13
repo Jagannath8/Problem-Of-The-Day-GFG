@@ -20,3 +20,5 @@
 |     12.    |  [Black and White](https://practice.geeksforgeeks.org/problems/black-and-white-1587115620/1)   |   December 09   |
 |     13.    |  [Build the smallest](https://practice.geeksforgeeks.org/problems/build-the-smallest2841/1)   |   December 10   |
 |     14.    |  [Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1)   |   December 11   |
+|     15.    |  [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)   |   December 12   |
+|     16.    |  [Split Array Largest Sum](https://practice.geeksforgeeks.org/problems/f04fd67b26b4828b6180715d8b1700426b637247/1)   |   December 13   |
