@@ -22,3 +22,4 @@
 |     14.    |  [Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1)   |   December 11   |
 |     15.    |  [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)   |   December 12   |
 |     16.    |  [Split Array Largest Sum](https://practice.geeksforgeeks.org/problems/f04fd67b26b4828b6180715d8b1700426b637247/1)   |   December 13   |
+|     17.    |  [Complement](https://practice.geeksforgeeks.org/problems/complement3911/1)   |   December 14   |
