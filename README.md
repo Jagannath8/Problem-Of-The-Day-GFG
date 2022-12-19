@@ -27,3 +27,4 @@
 |     19.    |  [2D Hopscotch](https://practice.geeksforgeeks.org/problems/hopscotch4857/1)   |   December 16   |
 |     20.    |  [Break a number](https://practice.geeksforgeeks.org/problems/break-a-number5913/1)   |   December 17   |
 |     21.    |  [A Game of LCM](https://practice.geeksforgeeks.org/problems/a-game-of-lcm2531/1)   |   December 18   |
+|     22.    |  [Alex Travelling](https://practice.geeksforgeeks.org/problems/alex-travelling/1)   |   December 19   |
