@@ -30,3 +30,4 @@
 |     22.    |  [Alex Travelling](https://practice.geeksforgeeks.org/problems/alex-travelling/1)   |   December 19   |
 |     23.    |  [A difference of values and indexes](https://practice.geeksforgeeks.org/problems/a-difference-of-values-and-indexes0302/1)   |   December 20   |
 |     24.    |  [Absolute List Sorting](https://practice.geeksforgeeks.org/problems/absolute-list-sorting/1)   |   December 21   |
+|     25.    |  [Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1)   |   December 22   |
