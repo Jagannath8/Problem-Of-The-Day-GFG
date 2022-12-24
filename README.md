@@ -10,7 +10,7 @@
 |     02.    |  [Count the Number of Full Binary Trees](https://practice.geeksforgeeks.org/problems/count-the-number-of-full-binary-trees2525/1)   |   November 29   |
 |     03.    |  [Reorder List](https://practice.geeksforgeeks.org/problems/reorder-list/1)   |   November 30   |
 |     04.    |  [Rearrange Array Alternately](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1)   |   December 01   |
-|     05.    |  [Check if it is possible to convert one string into another with given constraints](https://practice.geeksforgeeks.org/problems/check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116/1)   |   December 02   |
+|     05.    |  [ if it is possible to convert one string into another with given constraints](https://practice.geeksforgeeks.org/problems/-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116/1)   |   December 02   |
 |     06.    |  [Aggressive Cows](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1)   |   December 03   |
 |     07.    |  [Alternate Vowel and Consonant String](https://practice.geeksforgeeks.org/problems/aggressive-cows/1)   |   December 04   |
 |     08.    |  [Shortest Path by Removing K walls](https://practice.geeksforgeeks.org/problems/shortest-path-by-removing-k-walls/1)   |   December 05   |
@@ -32,3 +32,4 @@
 |     24.    |  [Absolute List Sorting](https://practice.geeksforgeeks.org/problems/absolute-list-sorting/1)   |   December 21   |
 |     25.    |  [Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1)   |   December 22   |
 |     26.    |  [Burst Balloons](https://practice.geeksforgeeks.org/problems/burst-balloons/1)   |   December 23   |
+|     27.    |  [Wine Buying and Selling](https://practice.geeksforgeeks.org/problems/wine-buying-and-selling/1)   |   December 24   |
