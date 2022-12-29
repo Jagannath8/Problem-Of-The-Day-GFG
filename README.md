@@ -35,5 +35,6 @@
 |     27.    |  [Wine Buying and Selling](https://practice.geeksforgeeks.org/problems/wine-buying-and-selling/1)   |   December 24   |
 |     28.    |  [Missing number in matrix](https://practice.geeksforgeeks.org/problems/missing-number-in-matrix5316/1)   |   December 25   |
 |     29.    |  [Akku and Binary Numbers](https://practice.geeksforgeeks.org/problems/akku-and-binary-numbers0902/1)   |   December 26   |
-|     30.    |  [Container With Most Water](https://practice.geeksforgeeks.org/problems/container-with-most-water0535/1)   |   December 27   |
+|     30.    |  [Container With Most ](https://practice.geeksforgeeks.org/problems/container-with-most-water0535/1)   |   December 27   |
 |     31.    |  [Largest subtree sum in a tree](https://practice.geeksforgeeks.org/problems/largest-subtree-sum-in-a-tree/1)   |   December 28   |
+|     32.    |  [Asteroid Collision](https://practice.geeksforgeeks.org/problems/asteroid-collision/1)   |   December 29   |
