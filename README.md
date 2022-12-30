@@ -38,3 +38,4 @@
 |     30.    |  [Container With Most ](https://practice.geeksforgeeks.org/problems/container-with-most-water0535/1)   |   December 27   |
 |     31.    |  [Largest subtree sum in a tree](https://practice.geeksforgeeks.org/problems/largest-subtree-sum-in-a-tree/1)   |   December 28   |
 |     32.    |  [Asteroid Collision](https://practice.geeksforgeeks.org/problems/asteroid-collision/1)   |   December 29   |
+|     33.    |  [Single valued subtree](https://practice.geeksforgeeks.org/problems/single-valued-subtree/1)   |   December 30   |
