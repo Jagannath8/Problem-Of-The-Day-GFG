@@ -1,4 +1,4 @@
-# GFG-100-Days
+# Problem Of The Day (POTD) GFG
 
 
 <img src="https://img.shields.io/badge/geeksforgeeks%20-006400.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
