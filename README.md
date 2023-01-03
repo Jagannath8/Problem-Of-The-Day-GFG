@@ -42,3 +42,4 @@
 |     34.    |  [Find minimum number of Laptops required](https://practice.geeksforgeeks.org/problems/af49b143a4ead583e943ca6176fbd7ea55b121ae/1)   |   December 31   |
 |     35.    |  [Count even length](https://practice.geeksforgeeks.org/problems/count-even-length1907/1)   |   January 01   |
 |     36.    |  [Maximum Value](https://practice.geeksforgeeks.org/problems/ec277982aea7239b550b28421e00acbb1ea03d2c/1)   |   January 02   |
+|     37.    |  [Minimize number of Students to be removed](https://practice.geeksforgeeks.org/problems/7d0fa4007b8eabadc404fcc9fa917aa52982aa96/1)   |   January 03   |
