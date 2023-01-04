@@ -43,3 +43,4 @@
 |     35.    |  [Count even length](https://practice.geeksforgeeks.org/problems/count-even-length1907/1)   |   January 01   |
 |     36.    |  [Maximum Value](https://practice.geeksforgeeks.org/problems/ec277982aea7239b550b28421e00acbb1ea03d2c/1)   |   January 02   |
 |     37.    |  [Minimize number of Students to be removed](https://practice.geeksforgeeks.org/problems/7d0fa4007b8eabadc404fcc9fa917aa52982aa96/1)   |   January 03   |
+|     38.    |  [Maximum Profit By Choosing A Subset Of Intervals](https://practice.geeksforgeeks.org/problems/649205908e04ac00f303626fa845261318adfa8f/1)   |   January 04   |
