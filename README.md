@@ -45,3 +45,4 @@
 |     37.    |  [Minimize number of Students to be removed](https://practice.geeksforgeeks.org/problems/7d0fa4007b8eabadc404fcc9fa917aa52982aa96/1)   |   January 03   |
 |     38.    |  [Maximum Profit By Choosing A Subset Of Intervals](https://practice.geeksforgeeks.org/problems/649205908e04ac00f303626fa845261318adfa8f/1)   |   January 04   |
 |     39.    |  [Find the longest string](https://practice.geeksforgeeks.org/problems/8d157f11af5416087251513cfc38ffc4d23be308/1)   |   January 05   |
+|     40.    |  [Shortest Prime Path](https://practice.geeksforgeeks.org/problems/1646a9b5169d7571cf672f2a31533af083d1f479/1)   |   January 06   |
