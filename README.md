@@ -47,3 +47,4 @@
 |     39.    |  [Find the longest string](https://practice.geeksforgeeks.org/problems/8d157f11af5416087251513cfc38ffc4d23be308/1)   |   January 05   |
 |     40.    |  [Shortest Prime Path](https://practice.geeksforgeeks.org/problems/1646a9b5169d7571cf672f2a31533af083d1f479/1)   |   January 06   |
 |     41.    |  [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/da62a798bca208c7a678c133569c3dc7f5b73500/1)   |   January 07   |
+|     42.    |  [Absolute difference divisible by K](https://practice.geeksforgeeks.org/problems/e0059183c88ab680b2f73f7d809fb8056fe9dc43/1)   |   January 08   |
