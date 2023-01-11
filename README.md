@@ -50,3 +50,4 @@
 |     42.    |  [Absolute difference divisible by K](https://practice.geeksforgeeks.org/problems/e0059183c88ab680b2f73f7d809fb8056fe9dc43/1)   |   January 08   |
 |     43.    |  [Last modified ball](https://practice.geeksforgeeks.org/problems/33af95e5935f1f2a0c3f5083c4b9d0db68e97bd4/1)   |   January 09   |
 |     44.    |  [Transform to Sum Tree](https://practice.geeksforgeeks.org/problems/d7e0ce338b11f0be36877d9c35cc8dfad6636957/1)   |   January 10   |
+|     45.    |  [Make array elements unique](https://practice.geeksforgeeks.org/problems/6e63df6d2ebdf6408a9b364128bb1123b5b13450/1)   |   January 11   |
