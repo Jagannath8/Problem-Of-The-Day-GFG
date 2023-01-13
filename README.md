@@ -52,3 +52,4 @@
 |     44.    |  [Transform to Sum Tree](https://practice.geeksforgeeks.org/problems/d7e0ce338b11f0be36877d9c35cc8dfad6636957/1)   |   January 10   |
 |     45.    |  [Make array elements unique](https://practice.geeksforgeeks.org/problems/6e63df6d2ebdf6408a9b364128bb1123b5b13450/1)   |   January 11   |
 |     46.    |  [Minimize the sum](https://practice.geeksforgeeks.org/problems/86e609332c9ef4f6b8aa79db11a6c0808c4a1bca/1)   |   January 12   |
+|     47.    |  [Count Lucky Permutations](https://practice.geeksforgeeks.org/problems/e9e2da3de3eb35679ca7e17b752ae877635f1a26/1)   |   January 13   |
