@@ -54,3 +54,4 @@
 |     46.    |  [Minimize the sum](https://practice.geeksforgeeks.org/problems/86e609332c9ef4f6b8aa79db11a6c0808c4a1bca/1)   |   January 12   |
 |     47.    |  [Count Lucky Permutations](https://practice.geeksforgeeks.org/problems/e9e2da3de3eb35679ca7e17b752ae877635f1a26/1)   |   January 13   |
 |     48.    |  [Maximum Number of Toys](https://practice.geeksforgeeks.org/problems/maximum-number-of-toys/1)   |   January 14   |
+|     49.    |  [Count the Substring](https://practice.geeksforgeeks.org/problems/f72994353d123b925ff20f0694b662191df03ea2/1)   |   January 15   |
