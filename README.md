@@ -55,3 +55,4 @@
 |     47.    |  [Count Lucky Permutations](https://practice.geeksforgeeks.org/problems/e9e2da3de3eb35679ca7e17b752ae877635f1a26/1)   |   January 13   |
 |     48.    |  [Maximum Number of Toys](https://practice.geeksforgeeks.org/problems/maximum-number-of-toys/1)   |   January 14   |
 |     49.    |  [Count the Substring](https://practice.geeksforgeeks.org/problems/f72994353d123b925ff20f0694b662191df03ea2/1)   |   January 15   |
+|     50.    |  [Next Greater Element](https://practice.geeksforgeeks.org/problems/214734e358208c1c6811d9b237b518f6b3c3c094/1)   |   January 16   |
