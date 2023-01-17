@@ -57,3 +57,4 @@
 |     49.    |  [Count the Substring](https://practice.geeksforgeeks.org/problems/f72994353d123b925ff20f0694b662191df03ea2/1)   |   January 15   |
 |     50.    |  [Next Greater Element](https://practice.geeksforgeeks.org/problems/214734e358208c1c6811d9b237b518f6b3c3c094/1)   |   January 16   |
 |     51.    |  [Find the maximum GCD of the siblings of a Binary Tree](https://practice.geeksforgeeks.org/problems/6eb51dc638ee1b936f38d1ab4b2f7062d4425463/1)   |   January 17   |
+|     52.    |  [Find the first node of loop in linked list](https://practice.geeksforgeeks.org/problems/44bb5287b98797782162ffe3d2201621f6343a4b/1)   |   January 18   |
