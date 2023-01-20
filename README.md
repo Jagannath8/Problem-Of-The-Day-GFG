@@ -59,3 +59,4 @@
 |     51.    |  [Find the maximum GCD of the siblings of a Binary Tree](https://practice.geeksforgeeks.org/problems/6eb51dc638ee1b936f38d1ab4b2f7062d4425463/1)   |   January 17   |
 |     52.    |  [Find the first node of loop in linked list](https://practice.geeksforgeeks.org/problems/44bb5287b98797782162ffe3d2201621f6343a4b/1)   |   January 18   |
 |     53.    |  [Carpet into Box](https://practice.geeksforgeeks.org/problems/230d87552a332a2970b2092451334a007f2b0eec/1)   |   January 19   |
+|     54.    |  [Maximum Weight Node](https://practice.geeksforgeeks.org/problems/b64485d3994958cca8748991bb58668204b3e4c0/1)   |   January 20   |
