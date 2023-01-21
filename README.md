@@ -60,3 +60,4 @@
 |     52.    |  [Find the first node of loop in linked list](https://practice.geeksforgeeks.org/problems/44bb5287b98797782162ffe3d2201621f6343a4b/1)   |   January 18   |
 |     53.    |  [Carpet into Box](https://practice.geeksforgeeks.org/problems/230d87552a332a2970b2092451334a007f2b0eec/1)   |   January 19   |
 |     54.    |  [Maximum Weight Node](https://practice.geeksforgeeks.org/problems/b64485d3994958cca8748991bb58668204b3e4c0/1)   |   January 20   |
+|     55.    |  [Minimum X (xor) A](https://practice.geeksforgeeks.org/problems/1fc4278adf2a36780f637c7b4cd06391dd1487e4/1)   |   January 21   |
