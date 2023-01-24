@@ -63,3 +63,4 @@
 |     55.    |  [Minimum X (xor) A](https://practice.geeksforgeeks.org/problems/1fc4278adf2a36780f637c7b4cd06391dd1487e4/1)   |   January 21   |
 |     56.    |  [GCD Array](https://practice.geeksforgeeks.org/problems/2b70d42632a4e207569c6d2d777383e4603d6fe1/1)   |   January 22   |
 |     57.    |  [Geeks And The String](https://practice.geeksforgeeks.org/problems/466faca80c3e86f13880710491c634d26abd44a7/1)   |   January 23   |
+|     58.    |  [Convert an array to reduced form](https://practice.geeksforgeeks.org/problems/convert-an-array-to-reduced-form1101/1)   |   January 24   |
