@@ -64,3 +64,4 @@
 |     56.    |  [GCD Array](https://practice.geeksforgeeks.org/problems/2b70d42632a4e207569c6d2d777383e4603d6fe1/1)   |   January 22   |
 |     57.    |  [Geeks And The String](https://practice.geeksforgeeks.org/problems/466faca80c3e86f13880710491c634d26abd44a7/1)   |   January 23   |
 |     58.    |  [Convert an array to reduced form](https://practice.geeksforgeeks.org/problems/convert-an-array-to-reduced-form1101/1)   |   January 24   |
+|     59.    |  [Type it!](https://practice.geeksforgeeks.org/problems/95080eb9efbf7cc5cb4851ddf8d7946e3f212a49/1)   |   January 25   |
