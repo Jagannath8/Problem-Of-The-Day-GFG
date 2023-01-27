@@ -66,3 +66,4 @@
 |     58.    |  [Convert an array to reduced form](https://practice.geeksforgeeks.org/problems/convert-an-array-to-reduced-form1101/1)   |   January 24   |
 |     59.    |  [Type it!](https://practice.geeksforgeeks.org/problems/95080eb9efbf7cc5cb4851ddf8d7946e3f212a49/1)   |   January 25   |
 |     60.    |  [Case-specific Sorting of Strings](https://practice.geeksforgeeks.org/problems/case-specific-sorting-of-strings4845/1)   |   January 26   |
+|     61.    |  [Total Decoding Messages](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1)   |   January 27   |
