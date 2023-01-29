@@ -68,3 +68,4 @@
 |     60.    |  [Case-specific Sorting of Strings](https://practice.geeksforgeeks.org/problems/case-specific-sorting-of-strings4845/1)   |   January 26   |
 |     61.    |  [Total Decoding Messages](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1)   |   January 27   |
 |     62.    |  [Scrambled String](https://practice.geeksforgeeks.org/problems/scrambled-string/1)   |   January 28   |
+|     63.    |  [Min operations](https://practice.geeksforgeeks.org/problems/5a7e1a52f1b7796238f9efea4c6fda389f26c327/1)   |   January 29   |
