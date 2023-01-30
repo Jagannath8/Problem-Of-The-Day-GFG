@@ -69,3 +69,4 @@
 |     61.    |  [Total Decoding Messages](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1)   |   January 27   |
 |     62.    |  [Scrambled String](https://practice.geeksforgeeks.org/problems/scrambled-string/1)   |   January 28   |
 |     63.    |  [Min operations](https://practice.geeksforgeeks.org/problems/5a7e1a52f1b7796238f9efea4c6fda389f26c327/1)   |   January 29   |
+|     64.    |  [Select Nodes](https://practice.geeksforgeeks.org/problems/f7bfa137576243795abb0595962d61b632bbad21/1)   |   January 30   |
