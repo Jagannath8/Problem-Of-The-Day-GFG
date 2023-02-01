@@ -71,3 +71,4 @@
 |     63.    |  [Min operations](https://practice.geeksforgeeks.org/problems/5a7e1a52f1b7796238f9efea4c6fda389f26c327/1)   |   January 29   |
 |     64.    |  [Select Nodes](https://practice.geeksforgeeks.org/problems/f7bfa137576243795abb0595962d61b632bbad21/1)   |   January 30   |
 |     65.    |  [Minimum times A has to be repeated such that B is a substring of it](https://practice.geeksforgeeks.org/problems/fda70097eb2895ecfff269849b6a8aace441947c/1)   |   January 31   |
+|     66.    |  [Distinct Coloring](https://practice.geeksforgeeks.org/problems/844b4fdcd988ac5461324d62d43f7892749a113c/1)   |   February 01   |
