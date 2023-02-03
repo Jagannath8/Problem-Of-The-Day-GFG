@@ -73,3 +73,4 @@
 |     65.    |  [Minimum times A has to be repeated such that B is a substring of it](https://practice.geeksforgeeks.org/problems/fda70097eb2895ecfff269849b6a8aace441947c/1)   |   January 31   |
 |     66.    |  [Distinct Coloring](https://practice.geeksforgeeks.org/problems/844b4fdcd988ac5461324d62d43f7892749a113c/1)   |   February 01   |
 |     67.    |  [Largest Sum Cycle](https://practice.geeksforgeeks.org/problems/51afa710a708c0681748445b509696dd588d5c40/1)   |   February 02   |
+|     68.    |  [Last cell in a Matrix](https://practice.geeksforgeeks.org/problems/2e068e2342b9c9f40cfda1ed8e8119542d748fd8/1)   |   February 03   |
