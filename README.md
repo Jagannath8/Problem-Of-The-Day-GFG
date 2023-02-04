@@ -74,3 +74,4 @@
 |     66.    |  [Distinct Coloring](https://practice.geeksforgeeks.org/problems/844b4fdcd988ac5461324d62d43f7892749a113c/1)   |   February 01   |
 |     67.    |  [Largest Sum Cycle](https://practice.geeksforgeeks.org/problems/51afa710a708c0681748445b509696dd588d5c40/1)   |   February 02   |
 |     68.    |  [Last cell in a Matrix](https://practice.geeksforgeeks.org/problems/2e068e2342b9c9f40cfda1ed8e8119542d748fd8/1)   |   February 03   |
+|     69.    |  [Max Sum without Adjacents](https://practice.geeksforgeeks.org/problems/7a33c749a79327b2889d420dd80342fff33aac6d/1)   |   February 04   |
