@@ -75,3 +75,4 @@
 |     67.    |  [Largest Sum Cycle](https://practice.geeksforgeeks.org/problems/51afa710a708c0681748445b509696dd588d5c40/1)   |   February 02   |
 |     68.    |  [Last cell in a Matrix](https://practice.geeksforgeeks.org/problems/2e068e2342b9c9f40cfda1ed8e8119542d748fd8/1)   |   February 03   |
 |     69.    |  [Max Sum without Adjacents](https://practice.geeksforgeeks.org/problems/7a33c749a79327b2889d420dd80342fff33aac6d/1)   |   February 04   |
+|     70.    |  [Intersection Point in Y Shaped Linked Lists](https://practice.geeksforgeeks.org/problems/eae1fbd0ac8f213a833d231e26ba4d829e79dd9c/1)   |   February 05   |
