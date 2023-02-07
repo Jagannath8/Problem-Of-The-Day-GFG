@@ -77,3 +77,4 @@
 |     69.    |  [Max Sum without Adjacents](https://practice.geeksforgeeks.org/problems/7a33c749a79327b2889d420dd80342fff33aac6d/1)   |   February 04   |
 |     70.    |  [Intersection Point in Y Shaped Linked Lists](https://practice.geeksforgeeks.org/problems/eae1fbd0ac8f213a833d231e26ba4d829e79dd9c/1)   |   February 05   |
 |     71.    |  [BST Downward Traversal](https://practice.geeksforgeeks.org/problems/c85e3a573a7de6dfd18398def16d05387852b319/1)   |   February 06   |
+|     72.    |  [Length of the longest subarray with positive product](https://practice.geeksforgeeks.org/problems/4dfa8ba14d4c94f4d7637b6b5246782412f3aeb8/1)   |   February 07   |
