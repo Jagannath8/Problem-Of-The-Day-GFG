@@ -80,3 +80,4 @@
 |     72.    |  [Length of the longest subarray with positive product](https://practice.geeksforgeeks.org/problems/4dfa8ba14d4c94f4d7637b6b5246782412f3aeb8/1)   |   February 07   |
 |     73.    |  [Count number of free cell](https://practice.geeksforgeeks.org/problems/90a81c305b1fe939b9230a67824749ceaa493eab/1)   |   February 08   |
 |     74.    |  [Maximum Bipartite Matching](https://practice.geeksforgeeks.org/problems/9a88fe7ada1c49c2b3da7a67b43875e4a76aface/1)   |   February 09   |
+|     75.    |  [Balloon Everywhere](https://practice.geeksforgeeks.org/problems/45fa306a9116332ece4cecdaedf50f140bd252d4/1)   |   February 10   |
