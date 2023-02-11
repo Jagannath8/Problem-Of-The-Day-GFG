@@ -81,3 +81,4 @@
 |     73.    |  [Count number of free cell](https://practice.geeksforgeeks.org/problems/90a81c305b1fe939b9230a67824749ceaa493eab/1)   |   February 08   |
 |     74.    |  [Maximum Bipartite Matching](https://practice.geeksforgeeks.org/problems/9a88fe7ada1c49c2b3da7a67b43875e4a76aface/1)   |   February 09   |
 |     75.    |  [Balloon Everywhere](https://practice.geeksforgeeks.org/problems/45fa306a9116332ece4cecdaedf50f140bd252d4/1)   |   February 10   |
+|     76.    |  [Minimum Days](https://practice.geeksforgeeks.org/problems/f4d22b1f9d62e8bee0ff84e9fa51dc66eb5005ec/1)   |   February 11   |
