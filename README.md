@@ -82,3 +82,4 @@
 |     74.    |  [Maximum Bipartite Matching](https://practice.geeksforgeeks.org/problems/9a88fe7ada1c49c2b3da7a67b43875e4a76aface/1)   |   February 09   |
 |     75.    |  [Balloon Everywhere](https://practice.geeksforgeeks.org/problems/45fa306a9116332ece4cecdaedf50f140bd252d4/1)   |   February 10   |
 |     76.    |  [Minimum Days](https://practice.geeksforgeeks.org/problems/f4d22b1f9d62e8bee0ff84e9fa51dc66eb5005ec/1)   |   February 11   |
+|     77.    |  [Prime List](https://practice.geeksforgeeks.org/problems/6cb0782855c0f11445b8d70e220f888e6ea8e22a/1)   |   February 12   |
