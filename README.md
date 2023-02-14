@@ -84,3 +84,4 @@
 |     76.    |  [Minimum Days](https://practice.geeksforgeeks.org/problems/f4d22b1f9d62e8bee0ff84e9fa51dc66eb5005ec/1)   |   February 11   |
 |     77.    |  [Prime List](https://practice.geeksforgeeks.org/problems/6cb0782855c0f11445b8d70e220f888e6ea8e22a/1)   |   February 12   |
 |     78.    |  [Arithmetic Number](https://practice.geeksforgeeks.org/problems/arithmetic-number2815/1)   |   February 13   |
+|     79.    |  [Walls Coloring](https://practice.geeksforgeeks.org/problems/51b266505221b97522b1d2c86ddad1868a54831b/1)   |   February 14   |
