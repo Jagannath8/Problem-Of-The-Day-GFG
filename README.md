@@ -88,3 +88,4 @@
 |     80.    |  [Geeks Island](https://practice.geeksforgeeks.org/problems/234ca3b438298fb04befd5abe7fbd98c006d4884/1)   |   February 15   |
 |     81.    |  [Good Stones](https://practice.geeksforgeeks.org/problems/e2d156755ca4e0a9b9abf5680191d4b06e52b1a8/1)   |   February 16   |
 |     82.    |  [Is it Fibonacci](https://practice.geeksforgeeks.org/problems/202d95ecdeec659401edc63dd952b1d37b989ab8/1)   |   February 17   |
+|     83.    |  [Apple Sequences](https://practice.geeksforgeeks.org/problems/38f100615d0b2efa755e7b07f905e0f8cd2fe5df/1)   |   February 18   |
