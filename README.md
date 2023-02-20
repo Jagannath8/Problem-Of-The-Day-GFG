@@ -90,3 +90,4 @@
 |     82.    |  [Is it Fibonacci](https://practice.geeksforgeeks.org/problems/202d95ecdeec659401edc63dd952b1d37b989ab8/1)   |   February 17   |
 |     83.    |  [Apple Sequences](https://practice.geeksforgeeks.org/problems/38f100615d0b2efa755e7b07f905e0f8cd2fe5df/1)   |   February 18   |
 |     84.    |  [Fixing Two swapped nodes of a BST](https://practice.geeksforgeeks.org/problems/6c4053871794c5e7a0817d7eaf88d71c4bb4c2bc/1)   |   February 19   |
+|     85.    |  [Count Cyclic Paths](https://practice.geeksforgeeks.org/problems/aa0000a5f710ce8d41366b714341eef644ec7b82/1)   |   February 20   |
