@@ -92,3 +92,4 @@
 |     84.    |  [Fixing Two swapped nodes of a BST](https://practice.geeksforgeeks.org/problems/6c4053871794c5e7a0817d7eaf88d71c4bb4c2bc/1)   |   February 19   |
 |     85.    |  [Count Cyclic Paths](https://practice.geeksforgeeks.org/problems/aa0000a5f710ce8d41366b714341eef644ec7b82/1)   |   February 20   |
 |     86.    |  [Fill the Matrix](https://practice.geeksforgeeks.org/problems/2145720aebf8ea0b07f76b17217b3353a0fbea7f/1)   |   February 21   |
+|     87.    |  [Connect Nodes at Same Level](https://practice.geeksforgeeks.org/problems/95423710beef46bd66f8dbb48c510b2c320dab05/1)   |   February 22   |
