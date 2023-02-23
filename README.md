@@ -93,3 +93,4 @@
 |     85.    |  [Count Cyclic Paths](https://practice.geeksforgeeks.org/problems/aa0000a5f710ce8d41366b714341eef644ec7b82/1)   |   February 20   |
 |     86.    |  [Fill the Matrix](https://practice.geeksforgeeks.org/problems/2145720aebf8ea0b07f76b17217b3353a0fbea7f/1)   |   February 21   |
 |     87.    |  [Connect Nodes at Same Level](https://practice.geeksforgeeks.org/problems/95423710beef46bd66f8dbb48c510b2c320dab05/1)   |   February 22   |
+|     88.    |  [Unique Paths in a Grid](https://practice.geeksforgeeks.org/problems/96161dfced02d544fc70c71d09b7a616fe726085/1)   |   February 23   |
