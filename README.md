@@ -95,3 +95,4 @@
 |     87.    |  [Connect Nodes at Same Level](https://practice.geeksforgeeks.org/problems/95423710beef46bd66f8dbb48c510b2c320dab05/1)   |   February 22   |
 |     88.    |  [Unique Paths in a Grid](https://practice.geeksforgeeks.org/problems/96161dfced02d544fc70c71d09b7a616fe726085/1)   |   February 23   |
 |     89.    |  [Shortest Path Using Atmost One Curved Edge](https://practice.geeksforgeeks.org/problems/e7d81a082cda6bd1e959d943197aa3bc21b88bdb/1)   |   February 24   |
+|     90.    |  [Valid Compressed String](https://practice.geeksforgeeks.org/problems/13eb74f1c80bc67d526a69b8276f6cad1b8c3401/1)   |   February 25   |
