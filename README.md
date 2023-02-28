@@ -98,3 +98,4 @@
 |     90.    |  [Valid Compressed String](https://practice.geeksforgeeks.org/problems/13eb74f1c80bc67d526a69b8276f6cad1b8c3401/1)   |   February 25   |
 |     91.    |  [Number of Good Components](https://practice.geeksforgeeks.org/problems/1a4b617b70f0142a5c2b454e6fbe1b9a69ce7861/1)   |   February 26   |
 |     92.    |  [Reverse both parts](https://practice.geeksforgeeks.org/problems/bae68b4d6a2a77fb6bd459cf7447240919ebfbf5/1)   |   February 27   |
+|     93.    |  [Optimal Array](https://practice.geeksforgeeks.org/problems/d4aeef538e6dd3280dda5f8ed7964727fdc7075f/1)   |   February 28   |
