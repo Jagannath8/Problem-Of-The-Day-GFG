@@ -99,3 +99,4 @@
 |     91.    |  [Number of Good Components](https://practice.geeksforgeeks.org/problems/1a4b617b70f0142a5c2b454e6fbe1b9a69ce7861/1)   |   February 26   |
 |     92.    |  [Reverse both parts](https://practice.geeksforgeeks.org/problems/bae68b4d6a2a77fb6bd459cf7447240919ebfbf5/1)   |   February 27   |
 |     93.    |  [Optimal Array](https://practice.geeksforgeeks.org/problems/d4aeef538e6dd3280dda5f8ed7964727fdc7075f/1)   |   February 28   |
+|     94.    |  [Update Queries](https://practice.geeksforgeeks.org/problems/a6528c893d4ab645ec6e0690c7982748385099c8/1)   |   March 01   |
