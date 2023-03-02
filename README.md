@@ -100,3 +100,4 @@
 |     92.    |  [Reverse both parts](https://practice.geeksforgeeks.org/problems/bae68b4d6a2a77fb6bd459cf7447240919ebfbf5/1)   |   February 27   |
 |     93.    |  [Optimal Array](https://practice.geeksforgeeks.org/problems/d4aeef538e6dd3280dda5f8ed7964727fdc7075f/1)   |   February 28   |
 |     94.    |  [Update Queries](https://practice.geeksforgeeks.org/problems/a6528c893d4ab645ec6e0690c7982748385099c8/1)   |   March 01   |
+|     95.    |  [Walls Coloring II](https://practice.geeksforgeeks.org/problems/9dacc32ad062be6e2ba8f6c41aad0b2b2376397d/1)   |   March 02   |
