@@ -102,3 +102,4 @@
 |     94.    |  [Update Queries](https://practice.geeksforgeeks.org/problems/a6528c893d4ab645ec6e0690c7982748385099c8/1)   |   March 01   |
 |     95.    |  [Walls Coloring II](https://practice.geeksforgeeks.org/problems/9dacc32ad062be6e2ba8f6c41aad0b2b2376397d/1)   |   March 02   |
 |     96.    |  [Cutting Rectangles](https://practice.geeksforgeeks.org/problems/a7a4da81b20f4a05bbd93f5786fcf7478298f4f5/1)   |   March 03   |
+|     97.    |  [Best Node](https://practice.geeksforgeeks.org/problems/a3493283697b7b69573a840f371a55ccd9332bb0/1)   |   March 04   |
