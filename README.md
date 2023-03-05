@@ -103,3 +103,4 @@
 |     95.    |  [Walls Coloring II](https://practice.geeksforgeeks.org/problems/9dacc32ad062be6e2ba8f6c41aad0b2b2376397d/1)   |   March 02   |
 |     96.    |  [Cutting Rectangles](https://practice.geeksforgeeks.org/problems/a7a4da81b20f4a05bbd93f5786fcf7478298f4f5/1)   |   March 03   |
 |     97.    |  [Best Node](https://practice.geeksforgeeks.org/problems/a3493283697b7b69573a840f371a55ccd9332bb0/1)   |   March 04   |
+|     98.    |  [Avoid Explosion](https://practice.geeksforgeeks.org/problems/d3fd6eb758469ab11e1a812220740d1f9819be70/1)   |   March 05   |
