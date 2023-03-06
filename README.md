@@ -104,3 +104,4 @@
 |     96.    |  [Cutting Rectangles](https://practice.geeksforgeeks.org/problems/a7a4da81b20f4a05bbd93f5786fcf7478298f4f5/1)   |   March 03   |
 |     97.    |  [Best Node](https://practice.geeksforgeeks.org/problems/a3493283697b7b69573a840f371a55ccd9332bb0/1)   |   March 04   |
 |     98.    |  [Avoid Explosion](https://practice.geeksforgeeks.org/problems/d3fd6eb758469ab11e1a812220740d1f9819be70/1)   |   March 05   |
+|     99.    |  [Geek hates too many 1s](https://practice.geeksforgeeks.org/problems/07e45fe40846bc670ad2507d2c649304699768b9/1)   |   March 06   |
