@@ -106,3 +106,4 @@
 |     98.    |  [Avoid Explosion](https://practice.geeksforgeeks.org/problems/d3fd6eb758469ab11e1a812220740d1f9819be70/1)   |   March 05   |
 |     99.    |  [Geek hates too many 1s](https://practice.geeksforgeeks.org/problems/07e45fe40846bc670ad2507d2c649304699768b9/1)   |   March 06   |
 |     100.    |  [Max Level Sum in Binary Tree](https://practice.geeksforgeeks.org/problems/4b7ff87c26ed23b3f63c25c611690213d44fb6aa/1)   |   March 07   |
+|     101.    |  [Max min Height](https://practice.geeksforgeeks.org/problems/899540d741547e2d75d1c5c03a4161ab53affd13/1)   |   March 08   |
