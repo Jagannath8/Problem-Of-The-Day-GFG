@@ -109,3 +109,4 @@
 |     101.    |  [Max min Height](https://practice.geeksforgeeks.org/problems/899540d741547e2d75d1c5c03a4161ab53affd13/1)   |   March 08   |
 |     102.    |  [Find anagrams in linked list](https://practice.geeksforgeeks.org/problems/de6f6a196aecdfb3e4939ba7729809a5a4bdfe90/1)   |   March 09   |
 |     103.    |  [Maximum Triplet product](https://practice.geeksforgeeks.org/problems/d54c71dc974b7db3a200eb63f34e3d1cba955d86/1)   |   March 10   |
+|     104.    |  [Yet another query problem](https://practice.geeksforgeeks.org/problems/ad6699d4aaf84c74b119fac3b65e9ceb3fc8ef14/1)   |   March 11   |
