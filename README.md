@@ -111,3 +111,4 @@
 |     103.    |  [Maximum Triplet product](https://practice.geeksforgeeks.org/problems/d54c71dc974b7db3a200eb63f34e3d1cba955d86/1)   |   March 10   |
 |     104.    |  [Yet another query problem](https://practice.geeksforgeeks.org/problems/ad6699d4aaf84c74b119fac3b65e9ceb3fc8ef14/1)   |   March 11   |
 |     105.    |  [Binary matrix having maximum number of 1s](https://practice.geeksforgeeks.org/problems/77e1c3e12cd148f835d53eb168d4472b2ff539fa/1)   |   March 12   |
+|     106.    |  [Maximum Possible Value](https://practice.geeksforgeeks.org/problems/2d3fc3651507fc0c6bd1fa43861e0d1c43d4b8a1/1)   |   March 13   |
