@@ -112,3 +112,4 @@
 |     104.    |  [Yet another query problem](https://practice.geeksforgeeks.org/problems/ad6699d4aaf84c74b119fac3b65e9ceb3fc8ef14/1)   |   March 11   |
 |     105.    |  [Binary matrix having maximum number of 1s](https://practice.geeksforgeeks.org/problems/77e1c3e12cd148f835d53eb168d4472b2ff539fa/1)   |   March 12   |
 |     106.    |  [Maximum Possible Value](https://practice.geeksforgeeks.org/problems/2d3fc3651507fc0c6bd1fa43861e0d1c43d4b8a1/1)   |   March 13   |
+|     107.    |  [Maximum Number of coins](https://practice.geeksforgeeks.org/problems/7ae455e552dc4e07f76bbe2adc4d4207ce1ff16e/1)   |   March 14   |
