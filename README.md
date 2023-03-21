@@ -119,3 +119,4 @@
 |     111.    |  [Median of the Subarrays](https://practice.geeksforgeeks.org/problems/6f08220ca3b871be594f50f7f56a9ef2799cb485/1)   |   March 18   |
 |     112.    |  [Distinct Difference](https://practice.geeksforgeeks.org/problems/c670bf260ea9dce6c5910dedc165aa403f6e951d/1)   |   March 19   |
 |     113.    |  [Shortest XY distance in Grid](https://practice.geeksforgeeks.org/problems/7366ce450d84b55391fc787a681c4d60de359e72/1)   |   March 20   |
+|     114.    |  [Taxi Booking](https://practice.geeksforgeeks.org/problems/7995e41d167d81f14f1d4194b29ef839f52d18ba/1)   |   March 21   |
