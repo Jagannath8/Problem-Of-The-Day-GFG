@@ -123,3 +123,4 @@
 |     115.    |  [String rp or pr](https://practice.geeksforgeeks.org/problems/d25f415de2ff3e02134de03e17ad019d723ab2e9/1)   |   March 22   |
 |     116.    |  [BST Maximum Difference](https://practice.geeksforgeeks.org/problems/e841e10213ddf839d51c2909f1808632a19ae0bf/1)   |   March 23   |
 |     117.    |  [Remove and Reverse](https://practice.geeksforgeeks.org/problems/1e2f365be6114b671b915e145ec7dbcfdc432910/1)   |   March 24   |
+|     118.    |  [Redundant Parenthesis](https://practice.geeksforgeeks.org/problems/ef5111156686a3136c6a0df8bbda17f952947e17/1)   |   March 25   |
