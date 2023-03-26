@@ -124,3 +124,4 @@
 |     116.    |  [BST Maximum Difference](https://practice.geeksforgeeks.org/problems/e841e10213ddf839d51c2909f1808632a19ae0bf/1)   |   March 23   |
 |     117.    |  [Remove and Reverse](https://practice.geeksforgeeks.org/problems/1e2f365be6114b671b915e145ec7dbcfdc432910/1)   |   March 24   |
 |     118.    |  [Redundant Parenthesis](https://practice.geeksforgeeks.org/problems/ef5111156686a3136c6a0df8bbda17f952947e17/1)   |   March 25   |
+|     119.    |  [Frogs and Jumps](https://practice.geeksforgeeks.org/problems/5551749efa02ae36b6fdb3034a7810e84bd4c1a4/1)   |   March 26   |
