@@ -127,3 +127,4 @@
 |     119.    |  [Frogs and Jumps](https://practice.geeksforgeeks.org/problems/5551749efa02ae36b6fdb3034a7810e84bd4c1a4/1)   |   March 26   |
 |     120.    |  [Divide in Incremental Groups](https://practice.geeksforgeeks.org/problems/c239059f6d110e6778cc2f2a1ab58ffd0a3d64ca/1)   |   March 27   |
 |     121.    |  [Shy Geek](https://practice.geeksforgeeks.org/problems/59dfb26eb6c659e6e5f60869ac335f450f97165a/1)   |   March 28   |
+|     122.    |  [Count the Substrings](https://practice.geeksforgeeks.org/problems/839d6ba2c2e4c669ba9d9d9f32ad20118937284e/1)   |   March 29   |
