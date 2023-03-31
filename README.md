@@ -129,3 +129,4 @@
 |     121.    |  [Shy Geek](https://practice.geeksforgeeks.org/problems/59dfb26eb6c659e6e5f60869ac335f450f97165a/1)   |   March 28   |
 |     122.    |  [Count the Substrings](https://practice.geeksforgeeks.org/problems/839d6ba2c2e4c669ba9d9d9f32ad20118937284e/1)   |   March 29   |
 |     123.    |  [Minimum Integer](https://practice.geeksforgeeks.org/problems/1ccf56f107bcb24242469ea45c02f852165a2184/1)   |   March 30   |
+|     124.    |  [Even Swap](https://practice.geeksforgeeks.org/problems/even-swap/1)   |   March 31   |
