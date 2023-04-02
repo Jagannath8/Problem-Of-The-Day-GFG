@@ -131,3 +131,4 @@
 |     123.    |  [Minimum Integer](https://practice.geeksforgeeks.org/problems/1ccf56f107bcb24242469ea45c02f852165a2184/1)   |   March 30   |
 |     124.    |  [Even Swap](https://practice.geeksforgeeks.org/problems/even-swap/1)   |   March 31   |
 |     125.    |  [Make Array Elements Equal](https://practice.geeksforgeeks.org/problems/1f05c7c12b1084f270c57566b2110967c046730d/1)   |   April 01   |
+|     126.    |  [Knight in Geekland](https://practice.geeksforgeeks.org/problems/7e5ec07f9d865297cff9a91522c2ce805433b420/1)   |   April 02   |
