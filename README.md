@@ -135,3 +135,4 @@
 |     127.    |  [Remainder on dividing by 11](https://practice.geeksforgeeks.org/problems/aa8c89caad6b5c3a76ba5e6d65454f77aac3f3543526/1)   |   April 03   |
 |     128.    |  [Minimum Steps Required](https://practice.geeksforgeeks.org/problems/6a1b365b520f10c8a29b533eb72951b4b4237b57/1)   |   April 04   |
 |     129.    |  [Count Special Numbers](https://practice.geeksforgeeks.org/problems/3d49e4cce2820a813da02d1587c2dd9c542ce769/1)   |   April 05   |
+|     130.    |  [Equal Left and Right Subarray Sum](https://practice.geeksforgeeks.org/problems/78a6854c8a2915e05f236aa407dfaa1bbc8ae7d3/1)   |   April 06   |
