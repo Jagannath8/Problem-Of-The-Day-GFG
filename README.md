@@ -138,3 +138,4 @@
 |     130.    |  [Equal Left and Right Subarray Sum](https://practice.geeksforgeeks.org/problems/78a6854c8a2915e05f236aa407dfaa1bbc8ae7d3/1)   |   April 06   |
 |     131.    |  [Add Minimum Characters](https://practice.geeksforgeeks.org/problems/55dbfdc246f3f62d6a7bcee7664cacf6be345527/1)   |   April 07   |
 |     132.    |  [Make the array beautiful](https://practice.geeksforgeeks.org/problems/badefd58bace4f2ca25267ccfe0c9dc844415e90/1)   |   April 08   |
+|     133.    |  [Special Digits](https://practice.geeksforgeeks.org/problems/7a3e0427cbb1ea9fbfec499dc6fce377ffdf7aed/1)   |   April 09   |
