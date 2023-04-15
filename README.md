@@ -144,3 +144,4 @@
 |     136.    |  [Dominant Pairs](https://practice.geeksforgeeks.org/problems/2a1c11024ceae36363fc405e07f2fa3e2f896ef0/1)   |   April 12   |
 |     137.    |  [Partition the Array](https://practice.geeksforgeeks.org/problems/84912de770541b2a56bee869cf603fab990fd3e5/1)   |   April 13   |
 |     138.    |  [Remove the balls](https://practice.geeksforgeeks.org/problems/546ea68f97be7283a04ddcc8057e09b46a686471/1)   |   April 14   |
+|     139.    |  [Find Total Time Taken](https://practice.geeksforgeeks.org/problems/5ae4f296db3e6bb74641c4087d587b6f89d9d135/1)   |   April 15   |
