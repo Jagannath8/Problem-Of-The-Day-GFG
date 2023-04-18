@@ -147,3 +147,4 @@
 |     139.    |  [Find Total Time Taken](https://practice.geeksforgeeks.org/problems/5ae4f296db3e6bb74641c4087d587b6f89d9d135/1)   |   April 15   |
 |     140.    |  [Unequal Arrays](https://practice.geeksforgeeks.org/problems/4db2fcd97400456c4914d5a3e8ad932cc21e3e9d/1)   |   April 16   |
 |     141.    |  [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/00ae30d0e0f6d8877c68f8b8558c5b0138fdb4b7/1)   |   April 17   |
+|     142.    |  [Minimum BST Sum Subtree](https://practice.geeksforgeeks.org/problems/d064cc0468a5c2bb7817ecd7c1bc59ce25e23613/1)   |   April 18   |
