@@ -148,3 +148,4 @@
 |     140.    |  [Unequal Arrays](https://practice.geeksforgeeks.org/problems/4db2fcd97400456c4914d5a3e8ad932cc21e3e9d/1)   |   April 16   |
 |     141.    |  [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/00ae30d0e0f6d8877c68f8b8558c5b0138fdb4b7/1)   |   April 17   |
 |     142.    |  [Minimum BST Sum Subtree](https://practice.geeksforgeeks.org/problems/d064cc0468a5c2bb7817ecd7c1bc59ce25e23613/1)   |   April 18   |
+|     143.    |  [Wifi Range](https://practice.geeksforgeeks.org/problems/61567fb59e9f202db5cc2ad320ffeb6d95bf72d7/1)   |   April 19   |
