@@ -150,3 +150,4 @@
 |     142.    |  [Minimum BST Sum Subtree](https://practice.geeksforgeeks.org/problems/d064cc0468a5c2bb7817ecd7c1bc59ce25e23613/1)   |   April 18   |
 |     143.    |  [Wifi Range](https://practice.geeksforgeeks.org/problems/61567fb59e9f202db5cc2ad320ffeb6d95bf72d7/1)   |   April 19   |
 |     144.    |  [Bheem Wants Ladoos](https://practice.geeksforgeeks.org/problems/9b61b8efbb030aed799055f776629dbf1287fbae/1)   |   April 20   |
+|     145.    |  [Prefix Suffix String](https://practice.geeksforgeeks.org/problems/5be83263c7f2cb866c60b23b73bb38f88de2461c/1)   |   April 21   |
