@@ -152,3 +152,4 @@
 |     144.    |  [Bheem Wants Ladoos](https://practice.geeksforgeeks.org/problems/9b61b8efbb030aed799055f776629dbf1287fbae/1)   |   April 20   |
 |     145.    |  [Prefix Suffix String](https://practice.geeksforgeeks.org/problems/5be83263c7f2cb866c60b23b73bb38f88de2461c/1)   |   April 21   |
 |     146.    |  [Smaller Sum](https://practice.geeksforgeeks.org/problems/5877fde1c8e1029658845cd4bc94066ac1d4b09b/1)   |   April 22   |
+|     147.    |  [Minimum Number](https://practice.geeksforgeeks.org/problems/7d62c8606123a199720c9b6885249dc9ac651bb7/1)   |   April 23   |
