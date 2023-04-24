@@ -153,3 +153,4 @@
 |     145.    |  [Prefix Suffix String](https://practice.geeksforgeeks.org/problems/5be83263c7f2cb866c60b23b73bb38f88de2461c/1)   |   April 21   |
 |     146.    |  [Smaller Sum](https://practice.geeksforgeeks.org/problems/5877fde1c8e1029658845cd4bc94066ac1d4b09b/1)   |   April 22   |
 |     147.    |  [Minimum Number](https://practice.geeksforgeeks.org/problems/7d62c8606123a199720c9b6885249dc9ac651bb7/1)   |   April 23   |
+|     148.    |  [Nearest smaller tower](https://practice.geeksforgeeks.org/problems/a520c08a8ea9b617be25c38b0fc2fe057e889253/1)   |   April 24   |
