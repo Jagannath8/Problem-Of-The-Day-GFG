@@ -155,3 +155,4 @@
 |     147.    |  [Minimum Number](https://practice.geeksforgeeks.org/problems/7d62c8606123a199720c9b6885249dc9ac651bb7/1)   |   April 23   |
 |     148.    |  [Nearest smaller tower](https://practice.geeksforgeeks.org/problems/a520c08a8ea9b617be25c38b0fc2fe057e889253/1)   |   April 24   |
 |     149.    |  [Game Of Subsets](https://practice.geeksforgeeks.org/problems/cec5db442a5652d07dd41e37ea780345f08c9a3d/1)   |   April 25   |
+|     150.    |  [Seating Arrangement](https://practice.geeksforgeeks.org/problems/6bb49b563cc171335c6564b00307a6d867e0268d/1)   |   April 26   |
