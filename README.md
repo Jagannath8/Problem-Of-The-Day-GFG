@@ -158,3 +158,4 @@
 |     150.    |  [Seating Arrangement](https://practice.geeksforgeeks.org/problems/6bb49b563cc171335c6564b00307a6d867e0268d/1)   |   April 26   |
 |     151.    |  [Easy Task](https://practice.geeksforgeeks.org/problems/c928f229cc972671d91c5e9f6b222414912cc88a/1)   |   April 27   |
 |     152.    |  [Geek's Village and Wells](https://practice.geeksforgeeks.org/problems/5a1277ffc1ec1d3a63d1a5d6b3920dd3d1294261/1)   |   April 28   |
+|     153.    |  [Find Number](https://practice.geeksforgeeks.org/problems/35bff0ee40090b092e97b02f649085bf1390cc67/1)   |   April 29   |
