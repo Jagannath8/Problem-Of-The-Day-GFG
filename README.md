@@ -160,3 +160,4 @@
 |     152.    |  [Geek's Village and Wells](https://practice.geeksforgeeks.org/problems/5a1277ffc1ec1d3a63d1a5d6b3920dd3d1294261/1)   |   April 28   |
 |     153.    |  [Find Number](https://practice.geeksforgeeks.org/problems/35bff0ee40090b092e97b02f649085bf1390cc67/1)   |   April 29   |
 |     154.    |  [Powerfull Integer](https://practice.geeksforgeeks.org/problems/d894706c496da5c5a4f45b0360c7f4164c516f83/1)   |   April 30   |
+|     155.    |  [Subtree In N-ary Tree](https://practice.geeksforgeeks.org/problems/079dee7e7db7a784ed73f604e3cf1712432edf79/1)   |   May 01   |
