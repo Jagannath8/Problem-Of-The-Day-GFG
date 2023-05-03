@@ -162,3 +162,4 @@
 |     154.    |  [Powerfull Integer](https://practice.geeksforgeeks.org/problems/d894706c496da5c5a4f45b0360c7f4164c516f83/1)   |   April 30   |
 |     155.    |  [Subtree In N-ary Tree](https://practice.geeksforgeeks.org/problems/079dee7e7db7a784ed73f604e3cf1712432edf79/1)   |   May 01   |
 |     156.    |  [Cake Distribution Problem](https://practice.geeksforgeeks.org/problems/0a7c7f1089932257071f9fa076f25d353f91e0fd/1)   |   May 02   |
+|     157.    |  [Make Palindrome](https://practice.geeksforgeeks.org/problems/8d0e8785cef59cf4903b926ceb7100bcd16a9835/1)   |   May 03   |
