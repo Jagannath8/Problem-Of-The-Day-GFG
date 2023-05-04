@@ -163,3 +163,4 @@
 |     155.    |  [Subtree In N-ary Tree](https://practice.geeksforgeeks.org/problems/079dee7e7db7a784ed73f604e3cf1712432edf79/1)   |   May 01   |
 |     156.    |  [Cake Distribution Problem](https://practice.geeksforgeeks.org/problems/0a7c7f1089932257071f9fa076f25d353f91e0fd/1)   |   May 02   |
 |     157.    |  [Make Palindrome](https://practice.geeksforgeeks.org/problems/8d0e8785cef59cf4903b926ceb7100bcd16a9835/1)   |   May 03   |
+|     158.    |  [Max Coins](https://practice.geeksforgeeks.org/problems/111fb97b983399c0ee9f34b7bae18ac76bf6f07a/1)   |   May 04   |
