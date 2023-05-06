@@ -165,3 +165,4 @@
 |     157.    |  [Make Palindrome](https://practice.geeksforgeeks.org/problems/8d0e8785cef59cf4903b926ceb7100bcd16a9835/1)   |   May 03   |
 |     158.    |  [Max Coins](https://practice.geeksforgeeks.org/problems/111fb97b983399c0ee9f34b7bae18ac76bf6f07a/1)   |   May 04   |
 |     159.    |  [Good Subtrees](https://practice.geeksforgeeks.org/problems/df12afc57250e7f6fc101aa9c272343184fe9859/1)   |   May 05   |
+|     160.    |  [Another Coin Change Problem](https://practice.geeksforgeeks.org/problems/09b910559335521654aa2909f86f893447d8f5ba/1)   |   May 06   |
