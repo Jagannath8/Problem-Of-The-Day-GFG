@@ -167,3 +167,4 @@
 |     159.    |  [Good Subtrees](https://practice.geeksforgeeks.org/problems/df12afc57250e7f6fc101aa9c272343184fe9859/1)   |   May 05   |
 |     160.    |  [Another Coin Change Problem](https://practice.geeksforgeeks.org/problems/09b910559335521654aa2909f86f893447d8f5ba/1)   |   May 06   |
 |     161.    |  [String Mirror](https://practice.geeksforgeeks.org/problems/d385b9d635b7b10eef6bf365b84922aaeec9eb98/1)   |   May 07   |
+|     162.    |  [Binary Modulo](https://practice.geeksforgeeks.org/problems/7488b7721e8aa5e5fc37d56af8b9c89e329c796f/1)   |   May 08   |
