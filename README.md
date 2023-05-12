@@ -171,3 +171,4 @@
 |     163.    |  [Count Binary Strings With No Consecutive 1s](https://practice.geeksforgeeks.org/problems/37f36b318a7d99c81f17f0a54fc46b5ce06bbe8c/1)   |   May 09   |
 |     164.    |  [Total Cuts](https://practice.geeksforgeeks.org/problems/cbd515a00f6537180d2e66f1ffe11093a128e560/1)   |   May 10   |
 |     165.    |  [Palindrome with minimum sum](https://practice.geeksforgeeks.org/problems/32dc957908c2eb8beeeaeedf81f37df20d37c308/1)   |   May 11   |
+|     166.    |  [Array Operations](https://practice.geeksforgeeks.org/problems/3a93b6a25a7b88e4c80a1fee00898fd8022eb108/1)   |   May 12   |
