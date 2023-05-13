@@ -172,3 +172,4 @@
 |     164.    |  [Total Cuts](https://practice.geeksforgeeks.org/problems/cbd515a00f6537180d2e66f1ffe11093a128e560/1)   |   May 10   |
 |     165.    |  [Palindrome with minimum sum](https://practice.geeksforgeeks.org/problems/32dc957908c2eb8beeeaeedf81f37df20d37c308/1)   |   May 11   |
 |     166.    |  [Array Operations](https://practice.geeksforgeeks.org/problems/3a93b6a25a7b88e4c80a1fee00898fd8022eb108/1)   |   May 12   |
+|     167.    |  [Bit Magic](https://practice.geeksforgeeks.org/problems/ed0422e992899f3f46340ce97b0090683ceebd67/1)   |   May 13   |
