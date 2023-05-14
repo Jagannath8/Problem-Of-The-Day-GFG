@@ -173,3 +173,4 @@
 |     165.    |  [Palindrome with minimum sum](https://practice.geeksforgeeks.org/problems/32dc957908c2eb8beeeaeedf81f37df20d37c308/1)   |   May 11   |
 |     166.    |  [Array Operations](https://practice.geeksforgeeks.org/problems/3a93b6a25a7b88e4c80a1fee00898fd8022eb108/1)   |   May 12   |
 |     167.    |  [Bit Magic](https://practice.geeksforgeeks.org/problems/ed0422e992899f3f46340ce97b0090683ceebd67/1)   |   May 13   |
+|     168.    |  [Maximum subset sum](https://practice.geeksforgeeks.org/problems/e047b92794316450814b29de56cc9c6ec18371b7/1)   |   May 14   |
