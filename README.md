@@ -175,3 +175,4 @@
 |     167.    |  [Bit Magic](https://practice.geeksforgeeks.org/problems/ed0422e992899f3f46340ce97b0090683ceebd67/1)   |   May 13   |
 |     168.    |  [Maximum subset sum](https://practice.geeksforgeeks.org/problems/e047b92794316450814b29de56cc9c6ec18371b7/1)   |   May 14   |
 |     169.    |  [Count Total Setbits](https://practice.geeksforgeeks.org/problems/1132bd8ee92072cd31441858402641d6800fa6b3/1)   |   May 15   |
+|     170.    |  [Cutting Binary String](https://practice.geeksforgeeks.org/problems/cutting-binary-string1342/1)   |   May 16   |
