@@ -177,3 +177,4 @@
 |     169.    |  [Count Total Setbits](https://practice.geeksforgeeks.org/problems/1132bd8ee92072cd31441858402641d6800fa6b3/1)   |   May 15   |
 |     170.    |  [Cutting Binary String](https://practice.geeksforgeeks.org/problems/cutting-binary-string1342/1)   |   May 16   |
 |     171.    |  [Trace Path](https://practice.geeksforgeeks.org/problems/trace-path3840/1)   |   May 17   |
+|     172.    |  [Find number of closed islands](https://practice.geeksforgeeks.org/problems/find-number-of-closed-islands/1)   |   May 18   |
