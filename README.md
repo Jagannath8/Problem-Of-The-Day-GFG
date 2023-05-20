@@ -179,3 +179,4 @@
 |     171.    |  [Trace Path](https://practice.geeksforgeeks.org/problems/trace-path3840/1)   |   May 17   |
 |     172.    |  [Find number of closed islands](https://practice.geeksforgeeks.org/problems/find-number-of-closed-islands/1)   |   May 18   |
 |     173.    |  [Find k-th smallest element in given n ranges](https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-given-n-ranges/1)   |   May 19   |
+|     174.    |  [Hands of Straights](https://practice.geeksforgeeks.org/problems/hands-of-straights/1)   |   May 20   |
