@@ -184,3 +184,4 @@
 |     176.    |  [Tree Transformation](https://practice.geeksforgeeks.org/problems/fbcd1787378ed396a8f24b47872cbc0ad2624f1d/1)   |   May 22   |
 |     177.    |  [Construct a Full Binary Tree](https://practice.geeksforgeeks.org/problems/93c977e771fc0d82e87ba570702732edb2226ad7/1)   |   May 23   |
 |     178.    |  [Maximum Identical Bowls](https://practice.geeksforgeeks.org/problems/5bfe93cc7f5a214bc6342709c78bc3dceba0f1c1/1)   |   May 24   |
+|     179.    |  [Expression Add Operators](https://practice.geeksforgeeks.org/problems/expression-add-operators/1)   |   May 25   |
