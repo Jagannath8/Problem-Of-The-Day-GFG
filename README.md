@@ -186,3 +186,4 @@
 |     178.    |  [Maximum Identical Bowls](https://practice.geeksforgeeks.org/problems/5bfe93cc7f5a214bc6342709c78bc3dceba0f1c1/1)   |   May 24   |
 |     179.    |  [Expression Add Operators](https://practice.geeksforgeeks.org/problems/expression-add-operators/1)   |   May 25   |
 |     180.    |  [Express as sum of power of natural numbers](https://practice.geeksforgeeks.org/problems/express-as-sum-of-power-of-natural-numbers5647/1)   |   May 26   |
+|     181.    |  [Modify Linked List-1](https://practice.geeksforgeeks.org/problems/modify-linked-list-1-0546/1)   |   May 27   |
