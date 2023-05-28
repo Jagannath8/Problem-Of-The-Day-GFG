@@ -187,3 +187,4 @@
 |     179.    |  [Expression Add Operators](https://practice.geeksforgeeks.org/problems/expression-add-operators/1)   |   May 25   |
 |     180.    |  [Express as sum of power of natural numbers](https://practice.geeksforgeeks.org/problems/express-as-sum-of-power-of-natural-numbers5647/1)   |   May 26   |
 |     181.    |  [Modify Linked List-1](https://practice.geeksforgeeks.org/problems/modify-linked-list-1-0546/1)   |   May 27   |
+|     182.    |  [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)   |   May 28   |
