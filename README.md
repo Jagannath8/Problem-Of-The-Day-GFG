@@ -190,3 +190,4 @@
 |     182.    |  [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)   |   May 28   |
 |     183.    |  [CamelCase Pattern Matching](https://practice.geeksforgeeks.org/problems/camelcase-pattern-matching2259/1)   |   May 29   |
 |     184.    |  [Word Search](https://practice.geeksforgeeks.org/problems/word-search/1)   |   May 30   |
+|     185.    |  [Frequency Game](https://practice.geeksforgeeks.org/problems/frequency-game/1)   |   May 31   |
