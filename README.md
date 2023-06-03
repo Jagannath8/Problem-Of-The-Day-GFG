@@ -193,3 +193,4 @@
 |     185.    |  [Frequency Game](https://practice.geeksforgeeks.org/problems/frequency-game/1)   |   May 31   |
 |     186.    |  [Topological sort](https://practice.geeksforgeeks.org/problems/topological-sort/1)   |   June 01   |
 |     187.    |  [Santa Banta](https://practice.geeksforgeeks.org/problems/santa-banta2814/1)   |   June 02   |
+|     188.    |  [Find Maximum Equal sum of Three Stacks](https://practice.geeksforgeeks.org/problems/find-maximum-equal-sum-of-three-stacks/1)   |   June 03   |
