@@ -195,3 +195,4 @@
 |     187.    |  [Santa Banta](https://practice.geeksforgeeks.org/problems/santa-banta2814/1)   |   June 02   |
 |     188.    |  [Find Maximum Equal sum of Three Stacks](https://practice.geeksforgeeks.org/problems/find-maximum-equal-sum-of-three-stacks/1)   |   June 03   |
 |     189.    |  [Reversing the equation](https://practice.geeksforgeeks.org/problems/reversing-the-equation2205/1)   |   June 04   |
+|     190.    |  [Find the Closest Element in BST](https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1)   |   June 05   |
