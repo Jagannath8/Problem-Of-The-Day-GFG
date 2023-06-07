@@ -197,3 +197,4 @@
 |     189.    |  [Reversing the equation](https://practice.geeksforgeeks.org/problems/reversing-the-equation2205/1)   |   June 04   |
 |     190.    |  [Find the Closest Element in BST](https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1)   |   June 05   |
 |     191.    |  [Predecessor and Successor](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1)   |   June 06   |
+|     192.    |  [Least Prime Factor](https://practice.geeksforgeeks.org/problems/least-prime-factor5216/1)   |   June 07   |
