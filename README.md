@@ -200,3 +200,4 @@
 |     192.    |  [Least Prime Factor](https://practice.geeksforgeeks.org/problems/least-prime-factor5216/1)   |   June 07   |
 |     193.    |  [Find Kth permutation](https://practice.geeksforgeeks.org/problems/find-kth-permutation-0932/1)   |   June 08   |
 |     194.    |  [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)   |   June 09   |
+|     195.    |  [Arranging the array](https://practice.geeksforgeeks.org/problems/arranging-the-array1131/1)   |   June 10   |
