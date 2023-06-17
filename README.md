@@ -207,3 +207,4 @@
 |     199.    |  [Maximum Diamonds](https://practice.geeksforgeeks.org/problems/chinky-and-diamonds3340/1)   |   June 14   |
 |     200.    |  [Longest Palindrome in a String](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)   |   June 15   |
 |     201.    |  [Min Time](https://practice.geeksforgeeks.org/problems/95bb244da24edd6214086ff934886ccda6ed9da8/1)   |   June 16   |
+|     202.    |  [Queue Operations](https://practice.geeksforgeeks.org/problems/queue-operations/1)   |   June 17   |
