@@ -211,3 +211,4 @@
 |     203.    |  [Ticket Counter](https://practice.geeksforgeeks.org/problems/ticket-counter-2731/1)   |   June 18   |
 |     204.    |  [Rearrange an array with O(1) extra space](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1)   |   June 19   |
 |     205.    |  [Matchsticks game](https://practice.geeksforgeeks.org/problems/-matchsticks-game4906/1)   |   June 20   |
+|     206.    |  [Reverse Coding](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1)   |   June 21   |
