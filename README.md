@@ -214,3 +214,4 @@
 |     206.    |  [Reverse Coding](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1)   |   June 21   |
 |     207.    |  [Lemonade Change](https://practice.geeksforgeeks.org/problems/lemonade-change/1)   |   June 22   |
 |     208.    |  [Task Scheduler](https://practice.geeksforgeeks.org/problems/task-scheduler/1)   |   June 23   |
+|     209.    |  [Prefix match with other strings](https://practice.geeksforgeeks.org/problems/prefix-match-with-other-strings/1)   |   June 24   |
