@@ -216,3 +216,4 @@
 |     208.    |  [Task Scheduler](https://practice.geeksforgeeks.org/problems/task-scheduler/1)   |   June 23   |
 |     209.    |  [Prefix match with other strings](https://practice.geeksforgeeks.org/problems/prefix-match-with-other-strings/1)   |   June 24   |
 |     210.    |  [Unique rows in boolean matrix](https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1)   |   June 25   |
+|     211.    |  [nCr](https://practice.geeksforgeeks.org/problems/ncr1019/1)   |   June 26   |
