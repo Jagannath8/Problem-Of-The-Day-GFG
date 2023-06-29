@@ -219,3 +219,4 @@
 |     211.    |  [nCr](https://practice.geeksforgeeks.org/problems/ncr1019/1)   |   June 26   |
 |     212.    |  [Union of Two Linked Lists](https://practice.geeksforgeeks.org/problems/union-of-two-linked-list/1)   |   June 27   |
 |     213.    |  [Maximum Depth Of Binary Tree](https://practice.geeksforgeeks.org/problems/maximum-depth-of-binary-tree/1)   |   June 28   |
+|     214.    |  [Next Happy Number](https://practice.geeksforgeeks.org/problems/next-happy-number4538/1)   |   June 29   |
