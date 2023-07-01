@@ -221,3 +221,4 @@
 |     213.    |  [Maximum Depth Of Binary Tree](https://practice.geeksforgeeks.org/problems/maximum-depth-of-binary-tree/1)   |   June 28   |
 |     214.    |  [Next Happy Number](https://practice.geeksforgeeks.org/problems/next-happy-number4538/1)   |   June 29   |
 |     215.    |  [Is Binary Number Multiple of 3](https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1)   |   June 30   |
+|     216.    |  [Number of 1 Bits](https://practice.geeksforgeeks.org/problems/set-bits0143/1)   |   July 01   |
