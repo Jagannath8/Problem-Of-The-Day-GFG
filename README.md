@@ -222,3 +222,5 @@
 |     214.    |  [Next Happy Number](https://practice.geeksforgeeks.org/problems/next-happy-number4538/1)   |   June 29   |
 |     215.    |  [Is Binary Number Multiple of 3](https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1)   |   June 30   |
 |     216.    |  [Number of 1 Bits](https://practice.geeksforgeeks.org/problems/set-bits0143/1)   |   July 01   |
+|     217.    |  [Copy Set Bits in Range](https://practice.geeksforgeeks.org/problems/copy-set-bits-in-range0623/1)   |   July 02   |
+|     218.    |  [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index3307/1)   |   July 03   |
