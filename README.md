@@ -228,3 +228,4 @@
 |     220.    |  [Stock buy and sell II](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell2615/1)   |   July 05   |
 |     221.    |  [Quick Sort](https://practice.geeksforgeeks.org/problems/quick-sort/1)   |   July 06   |
 |     222.    |  [Merge Without Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)   |   July 07   |
+|     223.    |  [Find triplets with zero sum](https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1)   |   July 08   |
