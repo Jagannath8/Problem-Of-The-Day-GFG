@@ -231,3 +231,4 @@
 |     223.    |  [Find triplets with zero sum](https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1)   |   July 08   |
 |     224.    |  [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1)   |   July 09   |
 |     225.    |  [Transpose of Matrix](https://practice.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1)   |   July 10   |
+|     226.    |  [Find kth element of spiral matrix](https://practice.geeksforgeeks.org/problems/find-nth-element-of-spiral-matrix/1)   |   July 11   |
