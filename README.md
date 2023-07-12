@@ -232,3 +232,4 @@
 |     224.    |  [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1)   |   July 09   |
 |     225.    |  [Transpose of Matrix](https://practice.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1)   |   July 10   |
 |     226.    |  [Find kth element of spiral matrix](https://practice.geeksforgeeks.org/problems/find-nth-element-of-spiral-matrix/1)   |   July 11   |
+|     227.    |  [Power Of Numbers](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1)   |   July 12   |
