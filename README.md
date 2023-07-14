@@ -234,3 +234,4 @@
 |     226.    |  [Find kth element of spiral matrix](https://practice.geeksforgeeks.org/problems/find-nth-element-of-spiral-matrix/1)   |   July 11   |
 |     227.    |  [Power Of Numbers](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1)   |   July 12   |
 |     228.    |  [Unique Number of Occurrences](https://practice.geeksforgeeks.org/problems/unique-frequencies-of-not/1)   |   July 13   |
+|     229.    |  [Implement two stacks in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)   |   July 14   |
