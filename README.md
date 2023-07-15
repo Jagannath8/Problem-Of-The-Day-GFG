@@ -235,3 +235,4 @@
 |     227.    |  [Power Of Numbers](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1)   |   July 12   |
 |     228.    |  [Unique Number of Occurrences](https://practice.geeksforgeeks.org/problems/unique-frequencies-of-not/1)   |   July 13   |
 |     229.    |  [Implement two stacks in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)   |   July 14   |
+|     230.    |  [Delete middle element of a stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1)   |   July 15   |
