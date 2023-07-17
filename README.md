@@ -237,3 +237,4 @@
 |     229.    |  [Implement two stacks in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)   |   July 14   |
 |     230.    |  [Delete middle element of a stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1)   |   July 15   |
 |     231.    |  [Queue Reversal](https://practice.geeksforgeeks.org/problems/queue-reversal/1)   |   July 16   |
+|     232.    |  [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)   |   July 17   |
