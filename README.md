@@ -238,3 +238,4 @@
 |     230.    |  [Delete middle element of a stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1)   |   July 15   |
 |     231.    |  [Queue Reversal](https://practice.geeksforgeeks.org/problems/queue-reversal/1)   |   July 16   |
 |     232.    |  [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)   |   July 17   |
+|     233.    |  [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)   |   July 18   |
