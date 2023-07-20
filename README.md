@@ -240,3 +240,4 @@
 |     232.    |  [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)   |   July 17   |
 |     233.    |  [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)   |   July 18   |
 |     234.    |  [Longest Palindromic Subsequence](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1)   |   July 19   |
+|     235.    |  [Non Repeating Character](https://practice.geeksforgeeks.org/problems/non-repeating-character-1587115620/1)   |   July 20   |
