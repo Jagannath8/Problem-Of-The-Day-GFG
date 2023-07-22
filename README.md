@@ -242,3 +242,4 @@
 |     234.    |  [Longest Palindromic Subsequence](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1)   |   July 19   |
 |     235.    |  [Non Repeating Character](https://practice.geeksforgeeks.org/problems/non-repeating-character-1587115620/1)   |   July 20   |
 |     236.    |  [Reverse a Linked List in groups of given size](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)   |   July 21   |
+|     237.    |  [Remove duplicates from an unsorted linked list](https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1)   |   July 22   |
