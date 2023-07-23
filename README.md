@@ -243,3 +243,4 @@
 |     235.    |  [Non Repeating Character](https://practice.geeksforgeeks.org/problems/non-repeating-character-1587115620/1)   |   July 20   |
 |     236.    |  [Reverse a Linked List in groups of given size](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)   |   July 21   |
 |     237.    |  [Remove duplicates from an unsorted linked list](https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1)   |   July 22   |
+|     238.    |  [Given a linked list of 0s, 1s and 2s, sort it](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)   |   July 23   |
