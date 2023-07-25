@@ -245,3 +245,4 @@
 |     237.    |  [Remove duplicates from an unsorted linked list](https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1)   |   July 22   |
 |     238.    |  [Given a linked list of 0s, 1s and 2s, sort it](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)   |   July 23   |
 |     239.    |  [Right View of Binary Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1)   |   July 24   |
+|     240.    |  [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1)   |   July 25   |
