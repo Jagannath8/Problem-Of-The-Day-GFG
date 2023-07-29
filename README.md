@@ -249,3 +249,4 @@
 |     241.    |  [Kth Ancestor in a Tree](https://practice.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1)   |   July 26   |
 |     242.    |  [Heap Sort](https://practice.geeksforgeeks.org/problems/heap-sort/1)   |   July 27   |
 |     243.    |  [Lowest Common Ancestor in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)   |   July 28   |
+|     244.    |  [Median of BST](https://practice.geeksforgeeks.org/problems/median-of-bst/1)   |   July 29   |
