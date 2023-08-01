@@ -252,3 +252,4 @@
 |     244.    |  [Median of BST](https://practice.geeksforgeeks.org/problems/median-of-bst/1)   |   July 29   |
 |     245.    |  [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)   |   July 30   |
 |     246.    |  [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)   |   July 31   |
+|     247.    |  [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)   |   August 01   |
