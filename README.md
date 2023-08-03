@@ -254,3 +254,4 @@
 |     246.    |  [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)   |   July 31   |
 |     247.    |  [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)   |   August 01   |
 |     248.    |  [Shortest Source to Destination Path](https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path3544/1)   |   August 02   |
+|     249.    |  [Shortest path in Directed Acyclic Graph](https://practice.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1)   |   August 03   |
