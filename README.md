@@ -256,3 +256,4 @@
 |     248.    |  [Shortest Source to Destination Path](https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path3544/1)   |   August 02   |
 |     249.    |  [Shortest path in Directed Acyclic Graph](https://practice.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1)   |   August 03   |
 |     250.    |  [Reverse a Stack](https://practice.geeksforgeeks.org/problems/reverse-a-stack/1)   |   August 04   |
+|     251.    |  [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)   |   August 05   |
