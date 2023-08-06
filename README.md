@@ -257,3 +257,4 @@
 |     249.    |  [Shortest path in Directed Acyclic Graph](https://practice.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1)   |   August 03   |
 |     250.    |  [Reverse a Stack](https://practice.geeksforgeeks.org/problems/reverse-a-stack/1)   |   August 04   |
 |     251.    |  [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)   |   August 05   |
+|     252.    |  [String Permutations](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string-1587115620/1)   |   August 06   |
