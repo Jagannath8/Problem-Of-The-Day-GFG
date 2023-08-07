@@ -258,3 +258,4 @@
 |     250.    |  [Reverse a Stack](https://practice.geeksforgeeks.org/problems/reverse-a-stack/1)   |   August 04   |
 |     251.    |  [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)   |   August 05   |
 |     252.    |  [String Permutations](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string-1587115620/1)   |   August 06   |
+|     253.    |  [Solve the Sudoku](https://practice.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1)   |   August 07   |
