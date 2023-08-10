@@ -261,4 +261,5 @@
 |     253.    |  [Solve the Sudoku](https://practice.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1)   |   August 07   |
 |     254.    |  [Fraction pairs with sum 1](https://practice.geeksforgeeks.org/problems/fraction-pairs-with-sum-1/1)   |   August 08   |
 |     255.    |  [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor2601/1)   |   August 09   |
+|     256.    |  [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1)   |   August 10   |
 
