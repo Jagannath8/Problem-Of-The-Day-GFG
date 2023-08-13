@@ -264,4 +264,5 @@
 |     256.    |  [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1)   |   August 10   |
 |     257.    |  [Coin Change](https://practice.geeksforgeeks.org/problems/coin-change2448/1)   |   August 11   |
 |     258.    |  [Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1)   |   August 12   |
+|     259.    |  [Nth Fibonacci Number](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1)   |   August 13   |
 
