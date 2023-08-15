@@ -266,4 +266,5 @@
 |     258.    |  [Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1)   |   August 12   |
 |     259.    |  [Nth Fibonacci Number](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1)   |   August 13   |
 |     260.    |  [Non Repeating Numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)   |   August 14   |
+|     261.    |  [Flip Bits](https://practice.geeksforgeeks.org/problems/flip-bits0240/1)   |   August 15   |
 
