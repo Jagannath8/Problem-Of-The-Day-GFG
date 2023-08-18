@@ -269,4 +269,5 @@
 |     261.    |  [Flip Bits](https://practice.geeksforgeeks.org/problems/flip-bits0240/1)   |   August 15   |
 |     262.    |  [Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1)   |   August 16   |
 |     263.    |  [Next Smallest Palindrome](https://practice.geeksforgeeks.org/problems/next-smallest-palindrome4740/1)   |   August 17   |
+|     264.    |  [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)   |   August 18   |
 
