@@ -270,4 +270,5 @@
 |     262.    |  [Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1)   |   August 16   |
 |     263.    |  [Next Smallest Palindrome](https://practice.geeksforgeeks.org/problems/next-smallest-palindrome4740/1)   |   August 17   |
 |     264.    |  [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)   |   August 18   |
+|     265.    |  [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)   |   August 19   |
 
