@@ -273,4 +273,5 @@
 |     265.    |  [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)   |   August 19   |
 |     266.    |  [Number of occurrence](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1)   |   August 20   |
 |     267.    |  [Surround the 1's](https://practice.geeksforgeeks.org/problems/surround-the-1s2505/1)   |   August 21   |
+|     268.    |  [Make Matrix Beautiful](https://practice.geeksforgeeks.org/problems/make-matrix-beautiful-1587115620/1)   |   August 22   |
 
