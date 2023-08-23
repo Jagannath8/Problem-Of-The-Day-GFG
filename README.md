@@ -274,4 +274,5 @@
 |     266.    |  [Number of occurrence](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1)   |   August 20   |
 |     267.    |  [Surround the 1's](https://practice.geeksforgeeks.org/problems/surround-the-1s2505/1)   |   August 21   |
 |     268.    |  [Make Matrix Beautiful](https://practice.geeksforgeeks.org/problems/make-matrix-beautiful-1587115620/1)   |   August 22   |
+|     269.    |  [Find the string in grid](https://practice.geeksforgeeks.org/problems/find-the-string-in-grid0111/1)   |   August 23   |
 
