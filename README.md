@@ -278,4 +278,5 @@
 |     270.    |  [Multiply two strings](https://practice.geeksforgeeks.org/problems/multiply-two-strings/1)   |   August 24   |
 |     271.    |  [Palindrome String](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)   |   August 25   |
 |     272.    |  [Longest K unique characters substring](https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1)   |   August 26   |
+|     273.    |  [Reverse a String](https://practice.geeksforgeeks.org/problems/reverse-a-string/1)   |   August 27   |
 
