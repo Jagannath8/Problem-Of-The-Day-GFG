@@ -281,4 +281,5 @@
 |     273.    |  [Reverse a String](https://practice.geeksforgeeks.org/problems/reverse-a-string/1)   |   August 27   |
 |     274.    |  [Remove duplicate element from sorted Linked List](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1)   |   August 28   |
 |     275.    |  [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)   |   August 29   |
+|     276.    |  [Delete a Node in Single Linked List](https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1)   |   August 30   |
 
