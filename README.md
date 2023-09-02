@@ -284,4 +284,5 @@
 |     276.    |  [Delete a Node in Single Linked List](https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1)   |   August 30   |
 |     277.    |  [AVL Tree Deletion](https://practice.geeksforgeeks.org/problems/avl-tree-deletion/1)   |   August 31   |
 |     278.    |  [Leftmost and rightmost nodes of binary tree](https://practice.geeksforgeeks.org/problems/leftmost-and-rightmost-nodes-of-binary-tree/1)   |   September 01   |
+|     279.    |  [Leaf under budget](https://practice.geeksforgeeks.org/problems/leaf-under-budget/1)   |   September 02   |
 
