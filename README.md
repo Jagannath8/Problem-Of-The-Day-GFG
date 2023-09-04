@@ -286,4 +286,5 @@
 |     278.    |  [Leftmost and rightmost nodes of binary tree](https://practice.geeksforgeeks.org/problems/leftmost-and-rightmost-nodes-of-binary-tree/1)   |   September 01   |
 |     279.    |  [Leaf under budget](https://practice.geeksforgeeks.org/problems/leaf-under-budget/1)   |   September 02   |
 |     280.    |  [Check if Tree is Isomorphic](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1)   |   September 03   |
+|     281.    |  [Replace O's with X's](https://practice.geeksforgeeks.org/problems/replace-os-with-xs0052/1)   |   September 04   |
 
