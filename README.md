@@ -287,4 +287,5 @@
 |     279.    |  [Leaf under budget](https://practice.geeksforgeeks.org/problems/leaf-under-budget/1)   |   September 02   |
 |     280.    |  [Check if Tree is Isomorphic](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1)   |   September 03   |
 |     281.    |  [Replace O's with X's](https://practice.geeksforgeeks.org/problems/replace-os-with-xs0052/1)   |   September 04   |
+|     282.    |  [Print adjacency list](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1)   |   September 05   |
 
