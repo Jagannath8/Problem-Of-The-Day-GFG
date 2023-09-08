@@ -290,4 +290,5 @@
 |     282.    |  [Print adjacency list](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1)   |   September 05   |
 |     283.    |  [Mother Vertex](https://practice.geeksforgeeks.org/problems/mother-vertex/1)   |   September 06   |
 |     284.    |  [Minimum Multiplications to reach End](https://practice.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1)   |   September 07   |
+|     285.    |  [Binary Tree to BST](https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1)   |   September 08   |
 
