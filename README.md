@@ -291,4 +291,5 @@
 |     283.    |  [Mother Vertex](https://practice.geeksforgeeks.org/problems/mother-vertex/1)   |   September 06   |
 |     284.    |  [Minimum Multiplications to reach End](https://practice.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1)   |   September 07   |
 |     285.    |  [Binary Tree to BST](https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1)   |   September 08   |
+|     286.    |  [Kth largest element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1)   |   September 09   |
 
