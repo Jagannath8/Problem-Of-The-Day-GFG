@@ -293,4 +293,5 @@
 |     285.    |  [Binary Tree to BST](https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1)   |   September 08   |
 |     286.    |  [Kth largest element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1)   |   September 09   |
 |     287.    |  [Insert a node in a BST](https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1)   |   September 10   |
+|     288.    |  [Lucky Numbers](https://practice.geeksforgeeks.org/problems/lucky-numbers2911/1)   |   September 11   |
 
