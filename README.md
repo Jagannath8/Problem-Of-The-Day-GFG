@@ -295,4 +295,5 @@
 |     287.    |  [Insert a node in a BST](https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1)   |   September 10   |
 |     288.    |  [Lucky Numbers](https://practice.geeksforgeeks.org/problems/lucky-numbers2911/1)   |   September 11   |
 |     289.    |  [Perfect Numbers](https://practice.geeksforgeeks.org/problems/perfect-numbers3207/1)   |   September 12   |
+|     290.    |  [Largest number possible](https://practice.geeksforgeeks.org/problems/largest-number-possible5028/1)   |   September 13   |
 
