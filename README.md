@@ -297,4 +297,5 @@
 |     289.    |  [Perfect Numbers](https://practice.geeksforgeeks.org/problems/perfect-numbers3207/1)   |   September 12   |
 |     290.    |  [Largest number possible](https://practice.geeksforgeeks.org/problems/largest-number-possible5028/1)   |   September 13   |
 |     291.    |  [Perfect Sum Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1)   |   September 14   |
+|     292.    |  [Partition Equal Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)   |   September 15   |
 
