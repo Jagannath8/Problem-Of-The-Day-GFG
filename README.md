@@ -300,4 +300,5 @@
 |     292.    |  [Partition Equal Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)   |   September 15   |
 |     293.    |  [Count number of hops](https://practice.geeksforgeeks.org/problems/count-number-of-hops-1587115620/1)   |   September 16   |
 |     294.    |  [Print first n Fibonacci Numbers](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1)   |   September 17   |
+|     295.    |  [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1)   |   September 18   |
 
