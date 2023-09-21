@@ -303,4 +303,5 @@
 |     295.    |  [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1)   |   September 18   |
 |     296.    |  [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1)   |   September 19   |
 |     297.    |  [Rotate Bits](https://practice.geeksforgeeks.org/problems/rotate-bits4524/1)   |   September 20   |
+|     298.    |  [Stickler Thief](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1)   |   September 21   |
 
