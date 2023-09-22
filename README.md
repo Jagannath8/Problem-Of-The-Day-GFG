@@ -304,4 +304,5 @@
 |     296.    |  [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1)   |   September 19   |
 |     297.    |  [Rotate Bits](https://practice.geeksforgeeks.org/problems/rotate-bits4524/1)   |   September 20   |
 |     298.    |  [Stickler Thief](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1)   |   September 21   |
+|     299.    |  [First and last occurrences of x](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1)   |   September 22   |
 
