@@ -306,4 +306,5 @@
 |     298.    |  [Stickler Thief](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1)   |   September 21   |
 |     299.    |  [First and last occurrences of x](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1)   |   September 22   |
 |     300.    |  [Equilibrium Point](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1)   |   September 23   |
+|     301.    |  [Find duplicates in an array](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1)   |   September 24   |
 
