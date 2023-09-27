@@ -309,4 +309,5 @@
 |     301.    |  [Find duplicates in an array](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1)   |   September 24   |
 |     302.    |  [Maximum Sum Combination](https://practice.geeksforgeeks.org/problems/maximum-sum-combination/1)   |   September 25   |
 |     303.    |  [Find All Four Sum Numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1)   |   September 26   |
+|     304.    |  [Find the closest pair from two arrays](https://practice.geeksforgeeks.org/problems/find-the-closest-pair-from-two-arrays4215/1)   |   September 27   |
 
