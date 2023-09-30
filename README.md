@@ -312,4 +312,5 @@
 |     304.    |  [Find the closest pair from two arrays](https://practice.geeksforgeeks.org/problems/find-the-closest-pair-from-two-arrays4215/1)   |   September 27   |
 |     305.    |  [Wave Array](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1)   |   September 28   |
 |     306.    |  [Number Of Enclaves](https://practice.geeksforgeeks.org/problems/number-of-enclaves/1)   |   September 29   |
+|     307.    |  [Boolean Matrix](https://practice.geeksforgeeks.org/problems/boolean-matrix-problem-1587115620/1)   |   September 30   |
 
