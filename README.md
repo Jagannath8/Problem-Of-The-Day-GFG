@@ -314,4 +314,5 @@
 |     306.    |  [Number Of Enclaves](https://practice.geeksforgeeks.org/problems/number-of-enclaves/1)   |   September 29   |
 |     307.    |  [Boolean Matrix](https://practice.geeksforgeeks.org/problems/boolean-matrix-problem-1587115620/1)   |   September 30   |
 |     308.    |  [Boundary traversal of matrix](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-matrix-1587115620/1)   |   October 01   |
+|     309.    |  [Number of distinct subsequences](https://practice.geeksforgeeks.org/problems/number-of-distinct-subsequences0909/1)   |   October 02   |
 
