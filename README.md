@@ -317,4 +317,5 @@
 |     309.    |  [Number of distinct subsequences](https://practice.geeksforgeeks.org/problems/number-of-distinct-subsequences0909/1)   |   October 02   |
 |     310.    |  [Column name from a given column number](https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1)   |   October 03   |
 |     311.    |  [Roman Number to Integer](https://practice.geeksforgeeks.org/problems/roman-number-to-integer3201/1)   |   October 04   |
+|     312.    |  [Count number of substrings](https://practice.geeksforgeeks.org/problems/count-number-of-substrings4528/1)   |   October 05   |
 
