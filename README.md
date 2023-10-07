@@ -319,4 +319,5 @@
 |     311.    |  [Roman Number to Integer](https://practice.geeksforgeeks.org/problems/roman-number-to-integer3201/1)   |   October 04   |
 |     312.    |  [Count number of substrings](https://practice.geeksforgeeks.org/problems/count-number-of-substrings4528/1)   |   October 05   |
 |     313.    |  [Reverse alternate nodes in Link List](https://practice.geeksforgeeks.org/problems/given-a-linked-list-reverse-alternate-nodes-and-append-at-the-end/1)   |   October 06   |
+|     314.    |  [Pairwise swap elements of a linked list](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1)   |   October 07   |
 
