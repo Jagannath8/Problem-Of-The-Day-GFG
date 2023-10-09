@@ -321,4 +321,5 @@
 |     313.    |  [Reverse alternate nodes in Link List](https://practice.geeksforgeeks.org/problems/given-a-linked-list-reverse-alternate-nodes-and-append-at-the-end/1)   |   October 06   |
 |     314.    |  [Pairwise swap elements of a linked list](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1)   |   October 07   |
 |     315.    |  [Insert in a Sorted List](https://practice.geeksforgeeks.org/problems/insert-in-a-sorted-list/1)   |   October 08   |
+|     316.    |  [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)   |   October 09   |
 
