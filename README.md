@@ -323,4 +323,5 @@
 |     315.    |  [Insert in a Sorted List](https://practice.geeksforgeeks.org/problems/insert-in-a-sorted-list/1)   |   October 08   |
 |     316.    |  [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)   |   October 09   |
 |     317.    |  [Nodes at given distance in binary tree](https://practice.geeksforgeeks.org/problems/nodes-at-given-distance-in-binary-tree/1)   |   October 10   |
+|     318.    |  [Check for Balanced Tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)   |   October 11   |
 
