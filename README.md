@@ -324,4 +324,5 @@
 |     316.    |  [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)   |   October 09   |
 |     317.    |  [Nodes at given distance in binary tree](https://practice.geeksforgeeks.org/problems/nodes-at-given-distance-in-binary-tree/1)   |   October 10   |
 |     318.    |  [Check for Balanced Tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)   |   October 11   |
+|     319.    |  [Duplicate subtree in Binary Tree](https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1)   |   October 12   |
 
