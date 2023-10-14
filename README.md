@@ -326,4 +326,5 @@
 |     318.    |  [Check for Balanced Tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)   |   October 11   |
 |     319.    |  [Duplicate subtree in Binary Tree](https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1)   |   October 12   |
 |     320.    |  [Floor in BST](https://practice.geeksforgeeks.org/problems/floor-in-bst/1)   |   October 13   |
+|     321.    |  [Find Common Nodes in two BSTs](https://practice.geeksforgeeks.org/problems/print-common-nodes-in-bst/1)   |   October 14   |
 
