@@ -328,4 +328,5 @@
 |     320.    |  [Floor in BST](https://practice.geeksforgeeks.org/problems/floor-in-bst/1)   |   October 13   |
 |     321.    |  [Find Common Nodes in two BSTs](https://practice.geeksforgeeks.org/problems/print-common-nodes-in-bst/1)   |   October 14   |
 |     322.    |  [Normal BST to Balanced BST](https://practice.geeksforgeeks.org/problems/normal-bst-to-balanced-bst/1)   |   October 15   |
+|     323.    |  [Making A Large Island](https://practice.geeksforgeeks.org/problems/making-a-large-island/1)   |   October 16   |
 
