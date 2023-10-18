@@ -330,4 +330,5 @@
 |     322.    |  [Normal BST to Balanced BST](https://practice.geeksforgeeks.org/problems/normal-bst-to-balanced-bst/1)   |   October 15   |
 |     323.    |  [Making A Large Island](https://practice.geeksforgeeks.org/problems/making-a-large-island/1)   |   October 16   |
 |     324.    |  [Transitive closure of a Graph](https://practice.geeksforgeeks.org/problems/transitive-closure-of-a-graph0930/1)   |   October 17   |
+|     325.    |  [Eventual Safe States](https://practice.geeksforgeeks.org/problems/eventual-safe-states/1)   |   October 18   |
 
