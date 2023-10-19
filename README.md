@@ -331,4 +331,5 @@
 |     323.    |  [Making A Large Island](https://practice.geeksforgeeks.org/problems/making-a-large-island/1)   |   October 16   |
 |     324.    |  [Transitive closure of a Graph](https://practice.geeksforgeeks.org/problems/transitive-closure-of-a-graph0930/1)   |   October 17   |
 |     325.    |  [Eventual Safe States](https://practice.geeksforgeeks.org/problems/eventual-safe-states/1)   |   October 18   |
+|     326.    |  [Level of Nodes](https://practice.geeksforgeeks.org/problems/level-of-nodes-1587115620/1)   |   October 19   |
 
