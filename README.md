@@ -335,4 +335,5 @@
 |     327.    |  [Form a number divisible by 3 using array digits](https://practice.geeksforgeeks.org/problems/form-a-number-divisible-by-3-using-array-digits0717/1)   |   October 20   |
 |     328.    |  [Sum of all divisors from 1 to n](https://practice.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1)   |   October 21   |
 |     329.    |  [Number of paths](https://practice.geeksforgeeks.org/problems/number-of-paths0926/1)   |   October 22   |
+|     330.    |  [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1)   |   October 23   |
 
