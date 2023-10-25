@@ -337,4 +337,5 @@
 |     329.    |  [Number of paths](https://practice.geeksforgeeks.org/problems/number-of-paths0926/1)   |   October 22   |
 |     330.    |  [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1)   |   October 23   |
 |     331.    |  [Palindromic Partitioning](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1)   |   October 24   |
+|     332.    |  [Knapsack with Duplicate Items](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1)   |   October 25   |
 
