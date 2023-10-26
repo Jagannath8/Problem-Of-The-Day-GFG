@@ -338,4 +338,5 @@
 |     330.    |  [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1)   |   October 23   |
 |     331.    |  [Palindromic Partitioning](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1)   |   October 24   |
 |     332.    |  [Knapsack with Duplicate Items](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1)   |   October 25   |
+|     333.    |  [Minimum Operations](https://practice.geeksforgeeks.org/problems/find-optimum-operation4504/1)   |   October 26   |
 
