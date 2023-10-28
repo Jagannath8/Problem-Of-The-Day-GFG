@@ -340,4 +340,5 @@
 |     332.    |  [Knapsack with Duplicate Items](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1)   |   October 25   |
 |     333.    |  [Minimum Operations](https://practice.geeksforgeeks.org/problems/find-optimum-operation4504/1)   |   October 26   |
 |     334.    |  [Minimum Deletions](https://practice.geeksforgeeks.org/problems/minimum-deletitions1648/1)   |   October 27   |
+|     335.    |  [Bleak Numbers](https://practice.geeksforgeeks.org/problems/bleak-numbers1552/1)   |   October 28   |
 
