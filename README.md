@@ -341,4 +341,5 @@
 |     333.    |  [Minimum Operations](https://practice.geeksforgeeks.org/problems/find-optimum-operation4504/1)   |   October 26   |
 |     334.    |  [Minimum Deletions](https://practice.geeksforgeeks.org/problems/minimum-deletitions1648/1)   |   October 27   |
 |     335.    |  [Bleak Numbers](https://practice.geeksforgeeks.org/problems/bleak-numbers1552/1)   |   October 28   |
+|     336.    |  [Check whether K-th bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1)   |   October 29   |
 
