@@ -344,4 +344,5 @@
 |     336.    |  [Check whether K-th bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1)   |   October 29   |
 |     337.    |  [Sum of XOR of all pairs](https://practice.geeksforgeeks.org/problems/sum-of-xor-of-all-pairs0723/1)   |   October 30   |
 |     338.    |  [Move all zeroes to end of array](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1)   |   October 31   |
+|     339.    |  [Frequencies of Limited Range Array Elements](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1)   |   November 01   |
 
