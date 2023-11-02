@@ -345,4 +345,5 @@
 |     337.    |  [Sum of XOR of all pairs](https://practice.geeksforgeeks.org/problems/sum-of-xor-of-all-pairs0723/1)   |   October 30   |
 |     338.    |  [Move all zeroes to end of array](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1)   |   October 31   |
 |     339.    |  [Frequencies of Limited Range Array Elements](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1)   |   November 01   |
+|     340.    |  [Minimum distance between two numbers](https://www.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/1)   |   November 02   |
 
