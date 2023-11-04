@@ -347,4 +347,5 @@
 |     339.    |  [Frequencies of Limited Range Array Elements](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1)   |   November 01   |
 |     340.    |  [Minimum distance between two numbers](https://www.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/1)   |   November 02   |
 |     341.    |  [Pythagorean Triplet](https://www.geeksforgeeks.org/problems/pythagorean-triplet3018/1)   |   November 03   |
+|     342.    |  [Find Transition Point](https://www.geeksforgeeks.org/problems/find-transition-point-1587115620/1)   |   November 04   |
 
