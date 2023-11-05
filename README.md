@@ -348,5 +348,5 @@
 |     340.    |  [Minimum distance between two numbers](https://www.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/1)   |   November 02   |
 |     341.    |  [Pythagorean Triplet](https://www.geeksforgeeks.org/problems/pythagorean-triplet3018/1)   |   November 03   |
 |     342.    |  [Find Transition Point](https://www.geeksforgeeks.org/problems/find-transition-point-1587115620/1)   |   November 04   |
-|     343.    |  [Top K Frequent Elements in Array - |](https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1)   |   November 05   |
+|     343.    |  [Top K Frequent Elements in Array](https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1)   |   November 05   |
 
