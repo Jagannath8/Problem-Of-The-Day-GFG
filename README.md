@@ -350,4 +350,5 @@
 |     342.    |  [Find Transition Point](https://www.geeksforgeeks.org/problems/find-transition-point-1587115620/1)   |   November 04   |
 |     343.    |  [Top K Frequent Elements in Array](https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1)   |   November 05   |
 |     344.    |  [Letters Collection](https://www.geeksforgeeks.org/problems/c-letters-collection4552/1)   |   November 06   |
+|     345.    |  [Sum of upper and lower triangles](https://www.geeksforgeeks.org/problems/sum-of-upper-and-lower-triangles-1587115621/1)   |   November 07   |
 
