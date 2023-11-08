@@ -351,4 +351,5 @@
 |     343.    |  [Top K Frequent Elements in Array](https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1)   |   November 05   |
 |     344.    |  [Letters Collection](https://www.geeksforgeeks.org/problems/c-letters-collection4552/1)   |   November 06   |
 |     345.    |  [Sum of upper and lower triangles](https://www.geeksforgeeks.org/problems/sum-of-upper-and-lower-triangles-1587115621/1)   |   November 07   |
+|     346.    |  [Print Matrix in snake Pattern](https://www.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1)   |   November 08   |
 
