@@ -353,4 +353,5 @@
 |     345.    |  [Sum of upper and lower triangles](https://www.geeksforgeeks.org/problems/sum-of-upper-and-lower-triangles-1587115621/1)   |   November 07   |
 |     346.    |  [Print Matrix in snake Pattern](https://www.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1)   |   November 08   |
 |     347.    |  [Predict the Column](https://www.geeksforgeeks.org/problems/predict-the-column/1)   |   November 09   |
+|     348.    |  [Number following a pattern](https://www.geeksforgeeks.org/problems/number-following-a-pattern3126/1)   |   November 10   |
 
