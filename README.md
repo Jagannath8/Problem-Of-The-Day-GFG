@@ -354,4 +354,5 @@
 |     346.    |  [Print Matrix in snake Pattern](https://www.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1)   |   November 08   |
 |     347.    |  [Predict the Column](https://www.geeksforgeeks.org/problems/predict-the-column/1)   |   November 09   |
 |     348.    |  [Number following a pattern](https://www.geeksforgeeks.org/problems/number-following-a-pattern3126/1)   |   November 10   |
+|     349.    |  [Isomorphic Strings](https://www.geeksforgeeks.org/problems/isomorphic-strings-1587115620/1)   |   November 11   |
 
