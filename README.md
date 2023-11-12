@@ -355,4 +355,5 @@
 |     347.    |  [Predict the Column](https://www.geeksforgeeks.org/problems/predict-the-column/1)   |   November 09   |
 |     348.    |  [Number following a pattern](https://www.geeksforgeeks.org/problems/number-following-a-pattern3126/1)   |   November 10   |
 |     349.    |  [Isomorphic Strings](https://www.geeksforgeeks.org/problems/isomorphic-strings-1587115620/1)   |   November 11   |
+|     350.    |  [Check if string is rotated by two places](https://www.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1)   |   November 12   |
 
