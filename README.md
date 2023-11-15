@@ -358,4 +358,5 @@
 |     350.    |  [Check if string is rotated by two places](https://www.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1)   |   November 12   |
 |     351.    |  [Shortest Common Supersequence](https://www.geeksforgeeks.org/problems/shortest-common-supersequence0322/1)   |   November 13   |
 |     352.    |  [Check if strings are rotations of each other or not](https://www.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1)   |   November 14   |
+|     353.    |  [Better String](https://www.geeksforgeeks.org/problems/better-string/1)   |   November 15   |
 
