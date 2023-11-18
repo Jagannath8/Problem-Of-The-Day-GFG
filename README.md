@@ -361,4 +361,5 @@
 |     353.    |  [Better String](https://www.geeksforgeeks.org/problems/better-string/1)   |   November 15   |
 |     354.    |  [Find the String](https://www.geeksforgeeks.org/problems/find-the-string/1)   |   November 16   |
 |     355.    |  [Binary Tree to CDLL](https://www.geeksforgeeks.org/problems/binary-tree-to-cdll/1)   |   November 17   |
+|     356.    |  [Reverse a Doubly Linked List](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1)   |   November 18   |
 
