@@ -362,4 +362,5 @@
 |     354.    |  [Find the String](https://www.geeksforgeeks.org/problems/find-the-string/1)   |   November 16   |
 |     355.    |  [Binary Tree to CDLL](https://www.geeksforgeeks.org/problems/binary-tree-to-cdll/1)   |   November 17   |
 |     356.    |  [Reverse a Doubly Linked List](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1)   |   November 18   |
+|     357.    |  [Intersection of two sorted Linked lists](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1)   |   November 19   |
 
