@@ -364,4 +364,5 @@
 |     356.    |  [Reverse a Doubly Linked List](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1)   |   November 18   |
 |     357.    |  [Intersection of two sorted Linked lists](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1)   |   November 19   |
 |     358.    |  [K Sum Paths](https://www.geeksforgeeks.org/problems/k-sum-paths/1)   |   November 20   |
+|     359.    |  [Determine if Two Trees are Identical](https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)   |   November 21   |
 
