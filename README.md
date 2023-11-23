@@ -366,4 +366,5 @@
 |     358.    |  [K Sum Paths](https://www.geeksforgeeks.org/problems/k-sum-paths/1)   |   November 20   |
 |     359.    |  [Determine if Two Trees are Identical](https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)   |   November 21   |
 |     360.    |  [Symmetric Tree](https://www.geeksforgeeks.org/problems/symmetric-tree/1)   |   November 22   |
+|     361.    |  [AVL Tree Insertion](https://www.geeksforgeeks.org/problems/avl-tree-insertion/1)   |   November 23   |
 
