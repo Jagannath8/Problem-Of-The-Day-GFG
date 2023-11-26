@@ -369,4 +369,5 @@
 |     361.    |  [AVL Tree Insertion](https://www.geeksforgeeks.org/problems/avl-tree-insertion/1)   |   November 23   |
 |     362.    |  [Pascal Triangle](https://www.geeksforgeeks.org/problems/pascal-triangle0652/1)   |   November 24   |
 |     363.    |  [Shuffle integers](https://www.geeksforgeeks.org/problems/shuffle-integers2401/1)   |   November 25   |
+|     364.    |  [Print Pattern](https://www.geeksforgeeks.org/problems/print-pattern3549/1)   |   November 26   |
 
