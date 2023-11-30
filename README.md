@@ -373,4 +373,5 @@
 |     365.    |  [Detect Cycle using DSU](https://www.geeksforgeeks.org/problems/detect-cycle-using-dsu/1)   |   November 27   |
 |     366.    |  [Sum of dependencies in a graph](https://www.geeksforgeeks.org/problems/sum-of-dependencies-in-a-graph5311/1)   |   November 28   |
 |     367.    |  [Euler circuit and Path](https://www.geeksforgeeks.org/problems/euler-circuit-and-path/1)   |   November 29   |
+|     368.    |  [Shortest path from 1 to n](https://www.geeksforgeeks.org/problems/shortest-path-from-1-to-n0156/1)   |   November 30   |
 
