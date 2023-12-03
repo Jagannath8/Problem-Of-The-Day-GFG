@@ -376,4 +376,5 @@
 |     368.    |  [Shortest path from 1 to n](https://www.geeksforgeeks.org/problems/shortest-path-from-1-to-n0156/1)   |   November 30   |
 |     369.    |  [Check whether BST contains Dead End](https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1)   |   December 01   |
 |     370.    |  [Inorder Traversal and BST](https://www.geeksforgeeks.org/problems/inorder-traversal-and-bst5855/1)   |   December 02   |
+|     371.    |  [Brothers From Different Roots](https://www.geeksforgeeks.org/problems/brothers-from-different-root/1)   |   December 03   |
 
