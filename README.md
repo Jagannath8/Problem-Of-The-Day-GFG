@@ -379,4 +379,5 @@
 |     371.    |  [Brothers From Different Roots](https://www.geeksforgeeks.org/problems/brothers-from-different-root/1)   |   December 03   |
 |     372.    |  [Sum-string](https://www.geeksforgeeks.org/problems/sum-string3151/1)   |   December 04   |
 |     373.    |  [Minimize the Heights II](https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1)   |   December 05   |
+|     374.    |  [How Many X's?](https://www.geeksforgeeks.org/problems/how-many-xs4514/1)   |   December 06   |
 
