@@ -382,4 +382,5 @@
 |     374.    |  [How Many X's?](https://www.geeksforgeeks.org/problems/how-many-xs4514/1)   |   December 06   |
 |     375.    |  [Number of subarrays with maximum values in given range](https://www.geeksforgeeks.org/problems/number-of-subarrays-with-maximum-values-in-given-range5949/1)   |   December 07   |
 |     376.    |  [Transform to prime](https://www.geeksforgeeks.org/problems/transform-to-prime4635/1)   |   December 08   |
+|     377.    |  [Smith Number](https://www.geeksforgeeks.org/problems/smith-number4132/1)   |   December 09   |
 
