@@ -383,4 +383,5 @@
 |     375.    |  [Number of subarrays with maximum values in given range](https://www.geeksforgeeks.org/problems/number-of-subarrays-with-maximum-values-in-given-range5949/1)   |   December 07   |
 |     376.    |  [Transform to prime](https://www.geeksforgeeks.org/problems/transform-to-prime4635/1)   |   December 08   |
 |     377.    |  [Smith Number](https://www.geeksforgeeks.org/problems/smith-number4132/1)   |   December 09   |
+|     378.    |  [Subarray with 0 sum](https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1)   |   December 10   |
 
