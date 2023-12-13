@@ -386,4 +386,5 @@
 |     378.    |  [Subarray with 0 sum](https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1)   |   December 10   |
 |     379.    |  [Max Sum Subarray of size K](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)   |   December 11   |
 |     380.    |  [Gold Mine Problem](https://www.geeksforgeeks.org/problems/gold-mine-problem2608/1)   |   December 12   |
+|     381.    |  [Consecutive 1's not allowed](https://www.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1)   |   December 13   |
 
