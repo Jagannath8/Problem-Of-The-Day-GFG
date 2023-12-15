@@ -388,4 +388,5 @@
 |     380.    |  [Gold Mine Problem](https://www.geeksforgeeks.org/problems/gold-mine-problem2608/1)   |   December 12   |
 |     381.    |  [Consecutive 1's not allowed](https://www.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1)   |   December 13   |
 |     382.    |  [Painting the Fence](https://www.geeksforgeeks.org/problems/painting-the-fence3727/1)   |   December 14   |
+|     383.    |  [Reach the Nth point](https://www.geeksforgeeks.org/problems/reach-the-nth-point5433/1)   |   December 15   |
 
