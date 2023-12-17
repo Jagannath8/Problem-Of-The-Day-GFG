@@ -390,4 +390,5 @@
 |     382.    |  [Painting the Fence](https://www.geeksforgeeks.org/problems/painting-the-fence3727/1)   |   December 14   |
 |     383.    |  [Reach the Nth point](https://www.geeksforgeeks.org/problems/reach-the-nth-point5433/1)   |   December 15   |
 |     384.    |  [String's Count](https://www.geeksforgeeks.org/problems/count-of-strings-that-can-be-formed-using-a-b-and-c-under-given-constraints1135/1)   |   December 16   |
+|     385.    |  [Max Sum without Adjacents](https://www.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1)   |   December 17   |
 
