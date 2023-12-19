@@ -392,4 +392,5 @@
 |     384.    |  [String's Count](https://www.geeksforgeeks.org/problems/count-of-strings-that-can-be-formed-using-a-b-and-c-under-given-constraints1135/1)   |   December 16   |
 |     385.    |  [Max Sum without Adjacents](https://www.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1)   |   December 17   |
 |     386.    |  [Game of XOR](https://www.geeksforgeeks.org/problems/game-of-xor1541/1)   |   December 18   |
+|     387.    |  [Rightmost different bit](https://www.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1)   |   December 19   |
 
