@@ -394,4 +394,5 @@
 |     386.    |  [Game of XOR](https://www.geeksforgeeks.org/problems/game-of-xor1541/1)   |   December 18   |
 |     387.    |  [Rightmost different bit](https://www.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1)   |   December 19   |
 |     388.    |  [Modified Game of Nim](https://www.geeksforgeeks.org/problems/variation-in-nim-game4317/1)   |   December 20   |
+|     389.    |  [Candy](https://www.geeksforgeeks.org/problems/candy/1)   |   December 21   |
 
