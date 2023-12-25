@@ -398,4 +398,5 @@
 |     390.    |  [Maximum Meetings in One Room](https://www.geeksforgeeks.org/problems/maximum-meetings-in-one-room/1)   |   December 22   |
 |     391.    |  [Count More than n/k Occurences](https://www.geeksforgeeks.org/problems/count-element-occurences/1)   |   December 23   |
 |     392.    |  [Buy Maximum Stocks if i stocks can be bought on i-th day](https://www.geeksforgeeks.org/problems/buy-maximum-stocks-if-i-stocks-can-be-bought-on-i-th-day/1)   |   December 24   |
+|     393.    |  [Determinant of a Matrix](https://www.geeksforgeeks.org/problems/determinant-of-a-matrix-1587115620/1)   |   December 25   |
 
