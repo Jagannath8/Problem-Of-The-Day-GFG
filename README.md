@@ -401,4 +401,5 @@
 |     393.    |  [Determinant of a Matrix](https://www.geeksforgeeks.org/problems/determinant-of-a-matrix-1587115620/1)   |   December 25   |
 |     394.    |  [Largest rectangular sub-matrix whose sum is 0](https://www.geeksforgeeks.org/problems/largest-rectangular-sub-matrix-whose-sum-is-0/1)   |   December 26   |
 |     395.    |  [Anti Diagonal Traversal of Matrix](https://www.geeksforgeeks.org/problems/print-diagonally1623/1)   |   December 27   |
+|     396.    |  [Wildcard string matching](https://www.geeksforgeeks.org/problems/wildcard-string-matching1126/1)   |   December 28   |
 
