@@ -402,4 +402,5 @@
 |     394.    |  [Largest rectangular sub-matrix whose sum is 0](https://www.geeksforgeeks.org/problems/largest-rectangular-sub-matrix-whose-sum-is-0/1)   |   December 26   |
 |     395.    |  [Anti Diagonal Traversal of Matrix](https://www.geeksforgeeks.org/problems/print-diagonally1623/1)   |   December 27   |
 |     396.    |  [Wildcard string matching](https://www.geeksforgeeks.org/problems/wildcard-string-matching1126/1)   |   December 28   |
+|     397.    |  [Check if a string is repetition of its substring of k-length](https://www.geeksforgeeks.org/problems/check-if-a-string-is-repetition-of-its-substring-of-k-length3302/1)   |   December 29   |
 
