@@ -404,4 +404,5 @@
 |     396.    |  [Wildcard string matching](https://www.geeksforgeeks.org/problems/wildcard-string-matching1126/1)   |   December 28   |
 |     397.    |  [Check if a string is repetition of its substring of k-length](https://www.geeksforgeeks.org/problems/check-if-a-string-is-repetition-of-its-substring-of-k-length3302/1)   |   December 29   |
 |     398.    |  [Winner of an election](https://www.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1)   |   December 30   |
+|     399.    |  [New Year Resolution](https://www.geeksforgeeks.org/problems/good-by-2023/1)   |   December 31   |
 
